@@ -1,0 +1,784 @@
+obj_label,masked_sentence,masked_sentence_roberta
+switzerland,"He later returned to live in Paris, before moving to [MASK], where he died in 1996 .","He later returned to live in Paris, before moving to <mask>, where he died in 1996 ."
+madrid,Arroyo died at [MASK] in 1551 .,Arroyo died at <mask> in 1551 .
+hammond,"Murakowski died in 1985 at age 60 at his home in [MASK], Indiana .","Murakowski died in 1985 at age 60 at his home in <mask>, Indiana ."
+marseille,Belissen remained in [MASK]s until his death .,Belissen remained in <mask>s until his death .
+paris,Tournély died at [MASK] .,Tournély died at <mask> .
+greenwich,"William J Bresnan died on November 27, 2009, at his home in [MASK], Connecticut, from complications due to cancer at the age of 75 .","William J Bresnan died on November 27, 2009, at his home in <mask>, Connecticut, from complications due to cancer at the age of 75 ."
+california,"Fred Rich died on September 8, 1956 in [MASK] aged 58 after a long illness .","Fred Rich died on September 8, 1956 in <mask> aged 58 after a long illness ."
+brighton,"He died at [MASK] on 23 June 1888, from the effects of an overdose of narcotic medicine, thought to be chloroform .","He died at <mask> on 23 June 1888, from the effects of an overdose of narcotic medicine, thought to be chloroform ."
+tacoma,"Robert W Copeland died at [MASK], Washington, on August 25, 1973 .","Robert W Copeland died at <mask>, Washington, on August 25, 1973 ."
+london,"After a long life in literary labours, she died in [MASK] on 21 Jan .","After a long life in literary labours, she died in <mask> on 21 Jan ."
+montana,Ambassador Mark died in a car accident in 2005 at age 81 in [MASK] .,Ambassador Mark died in a car accident in 2005 at age 81 in <mask> .
+london,"One of the most important figures in the history of British engraving, he died in [MASK], unmarried, on May 7 1887 .","One of the most important figures in the history of British engraving, he died in <mask>, unmarried, on May 7 1887 ."
+queens,"On May 13, 1977, Spillane was killed outside his apartment in [MASK] .","On May 13, 1977, Spillane was killed outside his apartment in <mask> ."
+bath,"Uvedale Tomkins Price died at [MASK] in 1764 and was succeeded at Foxley by his grandson Uvedale Price, writer on the Picturesque .","Uvedale Tomkins Price died at <mask> in 1764 and was succeeded at Foxley by his grandson Uvedale Price, writer on the Picturesque ."
+london,"She died in [MASK], two days after her 77th birthday .","She died in <mask>, two days after her 77th birthday ."
+oxford,"Ogilvie was happier and made a much greater mark as principal of Jesus College, [MASK] from 1944 until his death in 1949 .","Ogilvie was happier and made a much greater mark as principal of Jesus College, <mask> from 1944 until his death in 1949 ."
+vienna,She died in [MASK] .,She died in <mask> .
+paris,"After the death of her father in 1741, Brita Sophia and her mother moved to [MASK] in France, where they converted to Catholicism .","After the death of her father in 1741, Brita Sophia and her mother moved to <mask> in France, where they converted to Catholicism ."
+bangor,"But he was elected to the Forty-third and Forty-fourth Congresses, serving from March 4, 1873, until his death in [MASK] before the close of the Forty-third Congress .","But he was elected to the Forty-third and Forty-fourth Congresses, serving from March 4, 1873, until his death in <mask> before the close of the Forty-third Congress ."
+stockholm,He died on 26 June 1854 in [MASK] .,He died on 26 June 1854 in <mask> .
+cambridge,"After being for many years president of the Massachusetts Bible Society, he died at [MASK] .","After being for many years president of the Massachusetts Bible Society, he died at <mask> ."
+santiago,She died in [MASK] .,She died in <mask> .
+kingston,He was a member of the New York State Bridge Authority from 1951 to 1955; in 1970 he died in [MASK] .,He was a member of the New York State Bridge Authority from 1951 to 1955; in 1970 he died in <mask> .
+constantinople,"When Michael took the bait, he was arrested and shipped off to [MASK], where he died in prison in 1307 .","When Michael took the bait, he was arrested and shipped off to <mask>, where he died in prison in 1307 ."
+bath,He died at [MASK] on 19 February 1839 .,He died at <mask> on 19 February 1839 .
+munich,"Tobias Andreae, who was born at Frankfort in 1823, studied under J Becker, and then went to [MASK], where he made the acquaintance of Rahl and Genelli .","Tobias Andreae, who was born at Frankfort in 1823, studied under J Becker, and then went to <mask>, where he made the acquaintance of Rahl and Genelli ."
+manhattan,Adele Marcus died on 3 May 1995 at her home in [MASK] .,Adele Marcus died on 3 May 1995 at her home in <mask> .
+florida,He died in 1971 in [MASK] at age sixty-eight .,He died in 1971 in <mask> at age sixty-eight .
+potomac,"Sanders died of a heart attack on August 18, 1997 at his home in [MASK] .","Sanders died of a heart attack on August 18, 1997 at his home in <mask> ."
+kenya,"In August 1993, Amon Bazira was assassinated in [MASK] at Nakuru, allegedly with the complicity of Tiny Rowland, Yoweri Museveni and Daniel arap Moi .","In August 1993, Amon Bazira was assassinated in <mask> at Nakuru, allegedly with the complicity of Tiny Rowland, Yoweri Museveni and Daniel arap Moi ."
+manhattan,Meadmore died at the age of 76 in [MASK] from complications of Parkinson's disease .,Meadmore died at the age of 76 in <mask> from complications of Parkinson's disease .
+montreal,Allen died of a heart attack in [MASK] in 1935 and was buried in the Beechwood Cemetery .,Allen died of a heart attack in <mask> in 1935 and was buried in the Beechwood Cemetery .
+bath,"Johnston's later years were passed mainly at his residence (much later known as Orleans House) Twickenham, and he died at [MASK] in May 1737, see the separate article .","Johnston's later years were passed mainly at his residence (much later known as Orleans House) Twickenham, and he died at <mask> in May 1737, see the separate article ."
+boston,"She died in [MASK] on February 16, 1994 of smoke inhalation from a fire at the Ann Wigmore Foundation .","She died in <mask> on February 16, 1994 of smoke inhalation from a fire at the Ann Wigmore Foundation ."
+phoenix,"Crisp died at her home in [MASK], Arizona .","Crisp died at her home in <mask>, Arizona ."
+brighton,`` He died at [MASK] on 13 March 1855 .,`` He died at <mask> on 13 March 1855 .
+hawaii,"Lewin died on December 18, 2010, at the age of 84 in [MASK] .","Lewin died on December 18, 2010, at the age of 84 in <mask> ."
+portland,"Captain Bonser died just over a year later, on December 26, 1913 at Providence St Vincent Medical Center in [MASK] .","Captain Bonser died just over a year later, on December 26, 1913 at Providence St Vincent Medical Center in <mask> ."
+arizona,Hi Jolly became a living legend until his death in [MASK] .,Hi Jolly became a living legend until his death in <mask> .
+vancouver,"A native of Copenhagen, Rasch emigrated to Canada where he died in [MASK] in 1988 .","A native of Copenhagen, Rasch emigrated to Canada where he died in <mask> in 1988 ."
+louisville,"Givens died on December 8, 2009 at his home in [MASK], Kentucky .","Givens died on December 8, 2009 at his home in <mask>, Kentucky ."
+montgomery,"Aubrey Hornsby died in 1981 in [MASK], Alabama .","Aubrey Hornsby died in 1981 in <mask>, Alabama ."
+edinburgh,"On starting his managerial career, Siddons aimed at producing plays with greater efficiency in all directions than before, at the [MASK] Theatre; he was encouraged and supported by Scott .","On starting his managerial career, Siddons aimed at producing plays with greater efficiency in all directions than before, at the <mask> Theatre; he was encouraged and supported by Scott ."
+edinburgh,He died at [MASK] on 12 April 1815 .,He died at <mask> on 12 April 1815 .
+philadelphia,"Phillips died at [MASK], Pennsylvania, on January 29, 1803 .","Phillips died at <mask>, Pennsylvania, on January 29, 1803 ."
+manchester,He died at [MASK] 10 July 1876 .,He died at <mask> 10 July 1876 .
+beverly,"He died on November 19, 1679 in [MASK], a nearby town which he also helped found .","He died on November 19, 1679 in <mask>, a nearby town which he also helped found ."
+toronto,"She died in [MASK] on July 16, 2005, she was 84 years old .","She died in <mask> on July 16, 2005, she was 84 years old ."
+manchester,Following her retirement Brema became director of the opera class at the Royal [MASK] College of Music .,Following her retirement Brema became director of the opera class at the Royal <mask> College of Music .
+manchester,"She died in [MASK], aged 69, from undisclosed causes .","She died in <mask>, aged 69, from undisclosed causes ."
+calais,"General Stack died at [MASK], France, in December 1833 .","General Stack died at <mask>, France, in December 1833 ."
+manhattan,"Chais died on September 26, 2010 at age 84 in [MASK], where he and his wife had moved to further the treatment of a blood disorder that eventually took his life .","Chais died on September 26, 2010 at age 84 in <mask>, where he and his wife had moved to further the treatment of a blood disorder that eventually took his life ."
+portsmouth,"Long died at home in [MASK] on April 13, 1789 and is buried in the Proprietor's Burying Ground there .","Long died at home in <mask> on April 13, 1789 and is buried in the Proprietor's Burying Ground there ."
+rotterdam,Cawton died at [MASK] on 7 August 1659 .,Cawton died at <mask> on 7 August 1659 .
+france,"In addition to Formula One, Walt Hansgen was a dominant road racer from the early 1950s and 1960s, winning numerous races at VIR (Virginia International Raceway), the famed course at Bridgehampton, and Watkins Glen through to his death at Le Mans in [MASK] in 1966 .","In addition to Formula One, Walt Hansgen was a dominant road racer from the early 1950s and 1960s, winning numerous races at VIR (Virginia International Raceway), the famed course at Bridgehampton, and Watkins Glen through to his death at Le Mans in <mask> in 1966 ."
+montreal,He remained in [MASK] until his death in 1849 .,He remained in <mask> until his death in 1849 .
+london,In the midst of this he died in [MASK] .,In the midst of this he died in <mask> .
+brisbane,John Petrie died on 8 December 1892 in [MASK] and is buried with his wife and family in Toowong Cemetery .,John Petrie died on 8 December 1892 in <mask> and is buried with his wife and family in Toowong Cemetery .
+bologna,Odofredus died at [MASK] in 1265 .,Odofredus died at <mask> in 1265 .
+marquette,"He died January 19, 1868 in [MASK], Michigan .","He died January 19, 1868 in <mask>, Michigan ."
+miami,Sanchez retired to [MASK] where he died of cancer in 1987 .,Sanchez retired to <mask> where he died of cancer in 1987 .
+nashville,"Suffering from emphysema and asthma after a lengthy illness, Johnny PayCheck died at [MASK]'s Vanderbilt University Medical Center in 2003 .","Suffering from emphysema and asthma after a lengthy illness, Johnny PayCheck died at <mask>'s Vanderbilt University Medical Center in 2003 ."
+malta,He retired from the Indian Army to [MASK] where he died .,He retired from the Indian Army to <mask> where he died .
+minneapolis,"Bishop Joyce died on 28 July 1905 in [MASK], Minnesota and is buried in Lakewood Cemetery of that city .","Bishop Joyce died on 28 July 1905 in <mask>, Minnesota and is buried in Lakewood Cemetery of that city ."
+london,"Hussey died at the age of 38 in [MASK] and was buried at Caythorpe where his estate was valued at about £2,500 p.a .","Hussey died at the age of 38 in <mask> and was buried at Caythorpe where his estate was valued at about £2,500 p.a ."
+minnesota,"Arthur Thompson was born in Milan, [MASK] in 1891; his father was a harness maker .","Arthur Thompson was born in Milan, <mask> in 1891; his father was a harness maker ."
+minnesota,He died in 1969 in [MASK] .,He died in 1969 in <mask> .
+blackburn,"He died at [MASK] vicarage on 18 December 1821, and was interred at Holme .","He died at <mask> vicarage on 18 December 1821, and was interred at Holme ."
+naples,"He died on January 8, 1852 at [MASK] .","He died on January 8, 1852 at <mask> ."
+stamford,"Frank Marion died in 1963 in [MASK], Connecticut .","Frank Marion died in 1963 in <mask>, Connecticut ."
+bath,"Having suffered attacks of jaundice throughout her life, Frances Burney died in 1828 in [MASK] .","Having suffered attacks of jaundice throughout her life, Frances Burney died in 1828 in <mask> ."
+brooklyn,"Squibb died on October 25, 1900, at his home in [MASK], New York, from a ruptured blood vessel .","Squibb died on October 25, 1900, at his home in <mask>, New York, from a ruptured blood vessel ."
+sacramento,"Stall died of complications from pulmonary disease on November 2, 2008 at his home in [MASK], California .","Stall died of complications from pulmonary disease on November 2, 2008 at his home in <mask>, California ."
+belgrade,"He died November 1, 1899 in [MASK] at his home .","He died November 1, 1899 in <mask> at his home ."
+turkey,"With debts mounting, he returned to his native [MASK], where he died October 25, 2005 .","With debts mounting, he returned to his native <mask>, where he died October 25, 2005 ."
+richmond,"In the late 1860s, Doniphan re-opened his law office in [MASK], Missouri, where he died at the age of 79 He is buried in Fairview Cemetery in Liberty under an obelisk .","In the late 1860s, Doniphan re-opened his law office in <mask>, Missouri, where he died at the age of 79 He is buried in Fairview Cemetery in Liberty under an obelisk ."
+melbourne,"He also wrote stories and articles, and was establishing a reputation as a broadcaster when he died at [MASK] on 28 November 1934 .","He also wrote stories and articles, and was establishing a reputation as a broadcaster when he died at <mask> on 28 November 1934 ."
+syracuse,"Samuel Joseph May died on July 1, 1871 in [MASK], New York, donating over 10,000 of his own titles to the Cornell Library .","Samuel Joseph May died on July 1, 1871 in <mask>, New York, donating over 10,000 of his own titles to the Cornell Library ."
+leipzig,She died in [MASK] at the age of 79 .,She died in <mask> at the age of 79 .
+knoxville,"After a lifetime of speaking out on behalf of unions and social welfare issues, Florence Reece died of a heart attack in 1986 at the age of 86 in [MASK], Tennessee .","After a lifetime of speaking out on behalf of unions and social welfare issues, Florence Reece died of a heart attack in 1986 at the age of 86 in <mask>, Tennessee ."
+philadelphia,"Cannon died on January 28, 1782 in [MASK] .","Cannon died on January 28, 1782 in <mask> ."
+aberdeen,"He died at [MASK] in late January 1663, and was buried in the cathedral .","He died at <mask> in late January 1663, and was buried in the cathedral ."
+chicago,Van Osdel died at age 80 in [MASK] .,Van Osdel died at age 80 in <mask> .
+lyon,He died at [MASK] .,He died at <mask> .
+prescott,Crane died at [MASK] in 1858 .,Crane died at <mask> in 1858 .
+louisville,"Mattingly died in 1951 in [MASK], Kentucky .","Mattingly died in 1951 in <mask>, Kentucky ."
+vienna,He died at [MASK] in 1844 .,He died at <mask> in 1844 .
+paris,"His many interests ended by wearing out even his robust constitution, and he died at [MASK] in 1905 .","His many interests ended by wearing out even his robust constitution, and he died at <mask> in 1905 ."
+rome,"Giuseppe Agnelli was a Roman Catholic author, chiefly known for his catechetical and devotional works, b at Naples, 1621; d in [MASK], 17 October 1706 .","Giuseppe Agnelli was a Roman Catholic author, chiefly known for his catechetical and devotional works, b at Naples, 1621; d in <mask>, 17 October 1706 ."
+rome,"He passed the last thirty-three years of his life in the professed house at [MASK], where he died .","He passed the last thirty-three years of his life in the professed house at <mask>, where he died ."
+ghent,"He died at [MASK] the same year, probably on December 2nd, and was buried at Coverham Abbey, Yorkshire .","He died at <mask> the same year, probably on December 2nd, and was buried at Coverham Abbey, Yorkshire ."
+manhattan,"Grumet died on June 7, 1987 at Beth Israel Hospital in [MASK] at the age of 86 .","Grumet died on June 7, 1987 at Beth Israel Hospital in <mask> at the age of 86 ."
+norfolk,"Marcon abandoned cricket after he left Oxford to become a vicar in Cornwall and eventually the Rector of Edgefield in his native [MASK], where he died in 1875 .","Marcon abandoned cricket after he left Oxford to become a vicar in Cornwall and eventually the Rector of Edgefield in his native <mask>, where he died in 1875 ."
+warsaw,"Late in life he settled in [MASK], where he died on June 6, 1902, and was buried at the local Powązkowski Cemetery .","Late in life he settled in <mask>, where he died on June 6, 1902, and was buried at the local Powązkowski Cemetery ."
+chattanooga,"Anthony Johnson Showalter died September 14, 1924 in [MASK], Tennessee and is buried in the West Hill Cemetery of Dalton, Georgia .","Anthony Johnson Showalter died September 14, 1924 in <mask>, Tennessee and is buried in the West Hill Cemetery of Dalton, Georgia ."
+florence,He died at [MASK] in 1798 .,He died at <mask> in 1798 .
+erie,"He again engaged in the practice of law, and was elected president judge of the sixth judicial district in 1851 and served until his death in [MASK] in 1860 .","He again engaged in the practice of law, and was elected president judge of the sixth judicial district in 1851 and served until his death in <mask> in 1860 ."
+florence,He died at [MASK] in 1869 .,He died at <mask> in 1869 .
+bologna,He died at [MASK] in 1925 .,He died at <mask> in 1925 .
+bangor,Daley died in a [MASK] jail cell while under arrest for another crime in 1910 .,Daley died in a <mask> jail cell while under arrest for another crime in 1910 .
+miami,"He was reassigned to the United States Court of Appeals for the Eleventh Circuit on October 1, 1981, and remained on that court until his death in [MASK], Florida in 1998 .","He was reassigned to the United States Court of Appeals for the Eleventh Circuit on October 1, 1981, and remained on that court until his death in <mask>, Florida in 1998 ."
+princeton,In 1998 Merlino died at the Forrestal Nursing and Rehabilitation Center in [MASK] at the age of 76 .,In 1998 Merlino died at the Forrestal Nursing and Rehabilitation Center in <mask> at the age of 76 .
+belgium,"She died in [MASK] and is buried at Cathedral of Saint Michael and Saint Gudula, Brussels .","She died in <mask> and is buried at Cathedral of Saint Michael and Saint Gudula, Brussels ."
+hanover,"Richard Nolte died of complications from a stroke at his home in [MASK], New Hampshire, on November 22, 2007 .","Richard Nolte died of complications from a stroke at his home in <mask>, New Hampshire, on November 22, 2007 ."
+london,In 1906 she died suddenly of heart failure in [MASK] en route to a holiday in Scotland .,In 1906 she died suddenly of heart failure in <mask> en route to a holiday in Scotland .
+hastings,"Moving to Rye, East Sussex in the 1950s he died in [MASK] .","Moving to Rye, East Sussex in the 1950s he died in <mask> ."
+dorset,"Wilmot became physician in ordinary to George III in 1760, left London next year, and lived in Nottingham; but then moved to Heringstone in [MASK], where he died on 21 November 1786 .","Wilmot became physician in ordinary to George III in 1760, left London next year, and lived in Nottingham; but then moved to Heringstone in <mask>, where he died on 21 November 1786 ."
+manhattan,Christina Bellin died of a brain tumor at her [MASK] home in 1988 .,Christina Bellin died of a brain tumor at her <mask> home in 1988 .
+hertfordshire,He died at his home in Wheathampstead in [MASK] .,He died at his home in Wheathampstead in <mask> .
+philadelphia,Childs died at [MASK] on the 3rd of February 1894 .,Childs died at <mask> on the 3rd of February 1894 .
+macon,"He died in 1999 in [MASK], Georgia .","He died in 1999 in <mask>, Georgia ."
+bismarck,"Harold Schafer died December 2, 2001, in a [MASK] hospital after an extended illness .","Harold Schafer died December 2, 2001, in a <mask> hospital after an extended illness ."
+warsaw,He died in 1924 in [MASK] .,He died in 1924 in <mask> .
+colchester,"Hughes' ashes were spread in the Menai Straits after his death in [MASK], Essex .","Hughes' ashes were spread in the Menai Straits after his death in <mask>, Essex ."
+kingston,"She died in [MASK], New York .","She died in <mask>, New York ."
+london,Ridley died on 25 November 1887 in [MASK] and was survived by two daughters .,Ridley died on 25 November 1887 in <mask> and was survived by two daughters .
+colombia,"Rafael Pombo remained in [MASK] until his death on May 5, 1912 .","Rafael Pombo remained in <mask> until his death on May 5, 1912 ."
+arizona,"Manning died on March 10, 1986 in [MASK] .","Manning died on March 10, 1986 in <mask> ."
+cyprus,"Harold Spiro died on 11 December 1996 in [MASK], where he was buried .","Harold Spiro died on 11 December 1996 in <mask>, where he was buried ."
+concord,"Peterson died of natural causes at his home in [MASK], North Carolina .","Peterson died of natural causes at his home in <mask>, North Carolina ."
+hollywood,"Following the demise of Lubin Studios in 1917, Romaine Fielding was out of filmmaking until 1920 after which he continued to work in film until his death in [MASK] at the age of fifty-nine from a blood clot .","Following the demise of Lubin Studios in 1917, Romaine Fielding was out of filmmaking until 1920 after which he continued to work in film until his death in <mask> at the age of fifty-nine from a blood clot ."
+houston,"Rita died February 1, 2004 in [MASK] at age 82 .","Rita died February 1, 2004 in <mask> at age 82 ."
+sweden,"Afterwards he returned to [MASK], where he died in 1824 at Munktrop, located near the town of Köping .","Afterwards he returned to <mask>, where he died in 1824 at Munktrop, located near the town of Köping ."
+pierre,"In 1915 he died in [MASK], South Dakota .","In 1915 he died in <mask>, South Dakota ."
+philadelphia,"Lansbury died of cancer in the United States on 3 April 1991, aged 61, at her home in [MASK], Pennsylvania .","Lansbury died of cancer in the United States on 3 April 1991, aged 61, at her home in <mask>, Pennsylvania ."
+lincoln,Willson died at [MASK] on 8 September 1854 .,Willson died at <mask> on 8 September 1854 .
+harrisburg,"He declined to become a candidate for reelection in 1926, and resumed the practice of law until his death in [MASK] .","He declined to become a candidate for reelection in 1926, and resumed the practice of law until his death in <mask> ."
+greenwich,He died at his home in [MASK] in 1982 .,He died at his home in <mask> in 1982 .
+beirut,She died in [MASK] at the age of 75 For part of her life she was married to baritone Georges Baklanoff .,She died in <mask> at the age of 75 For part of her life she was married to baritone Georges Baklanoff .
+cambridge,"After his tenure in Congress, Henry continued the practice of law until his death in [MASK] .","After his tenure in Congress, Henry continued the practice of law until his death in <mask> ."
+dublin,"Pilkington's contribution to Rapin de Thoyras' Impartial History (1784) has been described as, ``an extreme falsification of his life.'' He died in 1774 in [MASK] .","Pilkington's contribution to Rapin de Thoyras' Impartial History (1784) has been described as, ``an extreme falsification of his life.'' He died in 1774 in <mask> ."
+cambridge,"Sir Grahame Clark, an archeologist and authority on prehistoric Europe, died on Tuesday at his home in [MASK], England .","Sir Grahame Clark, an archeologist and authority on prehistoric Europe, died on Tuesday at his home in <mask>, England ."
+turkey,"He would then continue to live abroad for the remainder of his life, in countries such as Switzerland and [MASK] (where he also died) .","He would then continue to live abroad for the remainder of his life, in countries such as Switzerland and <mask> (where he also died) ."
+london,"Studholme died at her home in [MASK] in March 1930 from a short but virulent attack of rheumatic fever, at the age of 57, and was buried in the St Marylebone Cemetery in East Finchley, survived by her second husband and children .","Studholme died at her home in <mask> in March 1930 from a short but virulent attack of rheumatic fever, at the age of 57, and was buried in the St Marylebone Cemetery in East Finchley, survived by her second husband and children ."
+bath,He died at [MASK] on 1 June 1853 .,He died at <mask> on 1 June 1853 .
+kingston,"Mariana Grajales Coello died on November 27, 1893 in [MASK], Jamaica at the age of 85 .","Mariana Grajales Coello died on November 27, 1893 in <mask>, Jamaica at the age of 85 ."
+tbilisi,"On May 20, 2007, Guram Sharadze was assassinated on Melikishvili Avenue in central [MASK] in front of the Aldagi Insurance Company office by Giorgi Barateli, an erstwhile friend of his son .","On May 20, 2007, Guram Sharadze was assassinated on Melikishvili Avenue in central <mask> in front of the Aldagi Insurance Company office by Giorgi Barateli, an erstwhile friend of his son ."
+naples,"He was the younger brother of the better-known Alexander Runciman, and accompanied him to [MASK], where he died .","He was the younger brother of the better-known Alexander Runciman, and accompanied him to <mask>, where he died ."
+richmond,Virginia Proctor Powell Florence died in 1991 at the age of 93 in [MASK] .,Virginia Proctor Powell Florence died in 1991 at the age of 93 in <mask> .
+london,"In 1822, with his health in decline, Cristall went to Goodrich on the Wye, where he had already bought a house, and where he spent many happy years until the loss of his wife, who died in 1840, drove him again to [MASK], where he died in 1847 .","In 1822, with his health in decline, Cristall went to Goodrich on the Wye, where he had already bought a house, and where he spent many happy years until the loss of his wife, who died in 1840, drove him again to <mask>, where he died in 1847 ."
+bristol,"Rowland Brotherhood (senior) died at his home in [MASK] on 4 March 1883, and is buried there in Arnos Vale Cemetery .","Rowland Brotherhood (senior) died at his home in <mask> on 4 March 1883, and is buried there in Arnos Vale Cemetery ."
+toronto,"A Conservative, the Honourable John Ross served until his death in 1871 in [MASK], Ontario .","A Conservative, the Honourable John Ross served until his death in 1871 in <mask>, Ontario ."
+kingston,Hortense Ellis died in her sleep in a [MASK] hospital on 18 October 2000 from a stomach infection .,Hortense Ellis died in her sleep in a <mask> hospital on 18 October 2000 from a stomach infection .
+stamford,"Caruso died in 1921 at the age of 48, and Benjamin died the next year at the age of 74 at his summer home in [MASK], CT All of his children except Dorothy, still in Italy and living the high-life on Caruso's money, were at his bedside when he died .","Caruso died in 1921 at the age of 48, and Benjamin died the next year at the age of 74 at his summer home in <mask>, CT All of his children except Dorothy, still in Italy and living the high-life on Caruso's money, were at his bedside when he died ."
+caldwell,"She died in [MASK], New Jersey .","She died in <mask>, New Jersey ."
+london,Smith died on 26 February 1832 in [MASK] .,Smith died on 26 February 1832 in <mask> .
+russia,"In the 1990s, Adler developed an interest in [MASK]n thought and literature .","In the 1990s, Adler developed an interest in <mask>n thought and literature ."
+russia,"This translation was published after her death in [MASK] (Moscow: Vodoley Publishers, 2007, see lstrauss.ru) .","This translation was published after her death in <mask> (Moscow: Vodoley Publishers, 2007, see lstrauss.ru) ."
+vienna,"He died at [MASK], on his return from Buda, by Apoplexy, and I believe his Remains come by Sea from Trieste .","He died at <mask>, on his return from Buda, by Apoplexy, and I believe his Remains come by Sea from Trieste ."
+california,He died in 1912 in [MASK] following an operation .,He died in 1912 in <mask> following an operation .
+bath,"He resumed mercantile pursuits in [MASK], New York, where he died January 21, 1872 .","He resumed mercantile pursuits in <mask>, New York, where he died January 21, 1872 ."
+stockholm,He died at [MASK] in 1766 .,He died at <mask> in 1766 .
+belize,"After the war he moved to [MASK], where he died .","After the war he moved to <mask>, where he died ."
+england,"After some work in Constantinople, and while waiting for his equipments and tents to proceed to the interior of Asia Minor, Yeardley was smitten with paralysis at Isnik, and was compelled to return to [MASK], where he died on 11 August 1858 .","After some work in Constantinople, and while waiting for his equipments and tents to proceed to the interior of Asia Minor, Yeardley was smitten with paralysis at Isnik, and was compelled to return to <mask>, where he died on 11 August 1858 ."
+baltimore,"Mauritz Hallgren died November 10, 1956 in [MASK], Maryland .","Mauritz Hallgren died November 10, 1956 in <mask>, Maryland ."
+norwich,He died at [MASK] in 1878 .,He died at <mask> in 1878 .
+brighton,"Ward died at [MASK], unmarried but was rumored to have had an out of wedlock son born in 1856 named Edward Terry Ward .","Ward died at <mask>, unmarried but was rumored to have had an out of wedlock son born in 1856 named Edward Terry Ward ."
+montreal,"He directed several bands for the Canadian Army with whom he held the rank of lieutenant, including the Fusiliers du Mont-Royal during the early 1950s and the Royal Canadian Ordnance Corps Band from 1956 until his death in [MASK] in 1961 .","He directed several bands for the Canadian Army with whom he held the rank of lieutenant, including the Fusiliers du Mont-Royal during the early 1950s and the Royal Canadian Ordnance Corps Band from 1956 until his death in <mask> in 1961 ."
+orange,"Following his wife's death he retired from public life to [MASK], New Jersey, where he died on September 7, 1870 at age of 70, days before his 71st birthday .","Following his wife's death he retired from public life to <mask>, New Jersey, where he died on September 7, 1870 at age of 70, days before his 71st birthday ."
+berlin,Müller died on 11 May 1943 in [MASK] .,Müller died on 11 May 1943 in <mask> .
+kingston,"She lived in Shady, New York for many years before her death in [MASK], New York in 2006 .","She lived in Shady, New York for many years before her death in <mask>, New York in 2006 ."
+portland,"Following his retirement, Kerr moved to [MASK], where he died in 1947 .","Following his retirement, Kerr moved to <mask>, where he died in 1947 ."
+amsterdam,"He studied and painted portraits and conversation-pieces in Rome, and afterwards returned to his native country and settled at [MASK], where he died in 1746 .","He studied and painted portraits and conversation-pieces in Rome, and afterwards returned to his native country and settled at <mask>, where he died in 1746 ."
+warrington,"Anna Blackburne was born at Orford Hall, Orford, [MASK], the daughter of Jane (born Ashton) and John Blackburne .","Anna Blackburne was born at Orford Hall, Orford, <mask>, the daughter of Jane (born Ashton) and John Blackburne ."
+warrington,She died in [MASK] .,She died in <mask> .
+exeter,"He died at [MASK], Devonshire, on 26 June 1691 .","He died at <mask>, Devonshire, on 26 June 1691 ."
+exeter,"He died suddenly of paralysis at [MASK] on 26 June 1691, and was buried in Dartmouth churchyard .","He died suddenly of paralysis at <mask> on 26 June 1691, and was buried in Dartmouth churchyard ."
+normandy,"He died in 2007 in [MASK] at the age of 87, and was buried in the Gironde region of France .","He died in 2007 in <mask> at the age of 87, and was buried in the Gironde region of France ."
+antwerp,Jacques Ignatius de Roore was born at [MASK] in 1686 .,Jacques Ignatius de Roore was born at <mask> in 1686 .
+antwerp,He died at [MASK] in 1747 .,He died at <mask> in 1747 .
+england,"During the Revolution, Royall, who had patriot sympathies but significant Loyalist connections, fled to Nova Scotia and subsequently to [MASK], where he died of smallpox in 1781 .","During the Revolution, Royall, who had patriot sympathies but significant Loyalist connections, fled to Nova Scotia and subsequently to <mask>, where he died of smallpox in 1781 ."
+bristol,"To the same influence he owed a prebend in Salisbury Cathedral, and on receiving this he removed from London to [MASK], where he died on 21 Dec .","To the same influence he owed a prebend in Salisbury Cathedral, and on receiving this he removed from London to <mask>, where he died on 21 Dec ."
+vancouver,"Harry Mills died at [MASK] BC December 20, 1959 age 85 .","Harry Mills died at <mask> BC December 20, 1959 age 85 ."
+victoria,"Cefai died on the 18th June 1996 at his home in [MASK], Gozo .","Cefai died on the 18th June 1996 at his home in <mask>, Gozo ."
+wellington,"Beaglehole died at the age of 59 in [MASK] on October 23, 1965 .","Beaglehole died at the age of 59 in <mask> on October 23, 1965 ."
+croydon,"He died at his home in [MASK], Surrey, in January 1955, aged 78, and was succeeded in the barony by his eldest son Foster Charles Lowry Lamb .","He died at his home in <mask>, Surrey, in January 1955, aged 78, and was succeeded in the barony by his eldest son Foster Charles Lowry Lamb ."
+hastings,John Marwick died at [MASK] on 17 August 1978 .,John Marwick died at <mask> on 17 August 1978 .
+paris,"He died on December 28, 1928 in [MASK] after contracting pneumonia in Addis Ababa, Ethiopia .","He died on December 28, 1928 in <mask> after contracting pneumonia in Addis Ababa, Ethiopia ."
+newark,"Wilson was elected to the 18th, 19th, and 20th Congresses, serving from March 4, 1823, until his death in [MASK], Ohio on June 6, 1827 .","Wilson was elected to the 18th, 19th, and 20th Congresses, serving from March 4, 1823, until his death in <mask>, Ohio on June 6, 1827 ."
+essex,"He never went back to the US, settling, instead, at Braintree in [MASK], where he died .","He never went back to the US, settling, instead, at Braintree in <mask>, where he died ."
+clifton,"He died at [MASK] on 8 April 1870, and was buried in the cemetery at Weston-super-Mare .","He died at <mask> on 8 April 1870, and was buried in the cemetery at Weston-super-Mare ."
+paris,"He visited Europe from 1819 to 1821 and again in 1824 and settled in [MASK], France, where he died May 2, 1825 .","He visited Europe from 1819 to 1821 and again in 1824 and settled in <mask>, France, where he died May 2, 1825 ."
+milan,"After winning a singing competition, he entered the Scuola di Canto of the Teatro alla Scala in [MASK] .","After winning a singing competition, he entered the Scuola di Canto of the Teatro alla Scala in <mask> ."
+lyon,She died in [MASK] at age 80 and is buried in Lalouvesc .,She died in <mask> at age 80 and is buried in Lalouvesc .
+london,"In 1852 Thompson died of a heart attack in [MASK] where he had been tended by his friends William Yarrell, author of British Birds, Edward Forbes, Edwin Lankester, of the Ray Society and George Busk .","In 1852 Thompson died of a heart attack in <mask> where he had been tended by his friends William Yarrell, author of British Birds, Edward Forbes, Edwin Lankester, of the Ray Society and George Busk ."
+lancaster,"Bracken died at [MASK], 13 November 1764 .","Bracken died at <mask>, 13 November 1764 ."
+florence,Passignano died at [MASK] in 1638 .,Passignano died at <mask> in 1638 .
+jerusalem,"Two years after his death in [MASK], a Jewish woman's teacher training seminary was established in the city and named after him; Machon Gold .","Two years after his death in <mask>, a Jewish woman's teacher training seminary was established in the city and named after him; Machon Gold ."
+hollywood,"She died in [MASK] at the age of 80 She was married to Dr John J Harty, who pre-deceased her, and at one time was engaged to Andrés de Segurola .","She died in <mask> at the age of 80 She was married to Dr John J Harty, who pre-deceased her, and at one time was engaged to Andrés de Segurola ."
+jerusalem,"Gueron resigned his office in 1872, and proceeded to [MASK], where he died two years later .","Gueron resigned his office in 1872, and proceeded to <mask>, where he died two years later ."
+portland,"He died of AIDS complications on April 28, 1994, aged 48, at his home in [MASK] .","He died of AIDS complications on April 28, 1994, aged 48, at his home in <mask> ."
+birmingham,"Phipps died on January 10, 2009 in a [MASK] hospital .","Phipps died on January 10, 2009 in a <mask> hospital ."
+omaha,"He died at [MASK] on 15 September 1875, and was buried there .","He died at <mask> on 15 September 1875, and was buried there ."
+lithuania,"His place in [MASK]n history is also commemorated by Daukantas Square, facing the Presidential Palace in Vilnius .","His place in <mask>n history is also commemorated by Daukantas Square, facing the Presidential Palace in Vilnius ."
+lithuania,"Finally in 1850 he returned to [MASK], where he died on December 6, 1864 .","Finally in 1850 he returned to <mask>, where he died on December 6, 1864 ."
+bologna,"He died at [MASK] in 1225, and has left behind him some treatises on procedure .","He died at <mask> in 1225, and has left behind him some treatises on procedure ."
+lexington,"He was reelected to the ten succeeding Congresses and served from April 14, 1951, until his death in [MASK], Kentucky, September 24, 1971 .","He was reelected to the ten succeeding Congresses and served from April 14, 1951, until his death in <mask>, Kentucky, September 24, 1971 ."
+wilmington,"She died from kidney failure associated with colon cancer, aged 77, in [MASK], Delaware .","She died from kidney failure associated with colon cancer, aged 77, in <mask>, Delaware ."
+london,"After twenty-five years of service, he resigned his post on as Alderman of Windsor Ward for Belfast City Council in June 1916 when he was almost 70 years of age and took up residence in [MASK], where he died in 1929 .","After twenty-five years of service, he resigned his post on as Alderman of Windsor Ward for Belfast City Council in June 1916 when he was almost 70 years of age and took up residence in <mask>, where he died in 1929 ."
+london,"Appropriately after his death in [MASK], he was placed in a mausoleum at West Norwood Cemetery constructed from red pottery tiles and bricks from the Doulton Works, which is now a Grade II Listed building .","Appropriately after his death in <mask>, he was placed in a mausoleum at West Norwood Cemetery constructed from red pottery tiles and bricks from the Doulton Works, which is now a Grade II Listed building ."
+athens,"Pericles Sakellarios died on March 5, 1985 in [MASK] .","Pericles Sakellarios died on March 5, 1985 in <mask> ."
+boston,"Marianna Pineda died November 24, 1996 of pancreatic cancer at her home in [MASK] .","Marianna Pineda died November 24, 1996 of pancreatic cancer at her home in <mask> ."
+detroit,Helen Sobel Smith died in a [MASK] hospital at the age of 59 after a long battle with cancer .,Helen Sobel Smith died in a <mask> hospital at the age of 59 after a long battle with cancer .
+cambridge,"She died in [MASK], Massachusetts on February 6, 2001 .","She died in <mask>, Massachusetts on February 6, 2001 ."
+clifton,He died at [MASK] 28 October 1812 .,He died at <mask> 28 October 1812 .
+philadelphia,"Leaving active duty on 10 January 1903, Rear Admiral Melville spent his last years in [MASK], Pennsylvania, where he died on 17 March 1912 .","Leaving active duty on 10 January 1903, Rear Admiral Melville spent his last years in <mask>, Pennsylvania, where he died on 17 March 1912 ."
+milton,She died in [MASK] at the age of eighty-one .,She died in <mask> at the age of eighty-one .
+italy,"Hurlbert denied that he had written a sheaf of salacious letters to his London mistress, Gladys Evelyn, but a British court indicted him for perjury in 1891, and Hurlbert fled incognito to [MASK], where he died in 1895 .","Hurlbert denied that he had written a sheaf of salacious letters to his London mistress, Gladys Evelyn, but a British court indicted him for perjury in 1891, and Hurlbert fled incognito to <mask>, where he died in 1895 ."
+vancouver,Jones died at the Glen Hospital in [MASK] at the age of 95 .,Jones died at the Glen Hospital in <mask> at the age of 95 .
+brooklyn,"He retired and resided in [MASK], where he died in 1974; interment was in St John's Cemetery, Middle Village .","He retired and resided in <mask>, where he died in 1974; interment was in St John's Cemetery, Middle Village ."
+glasgow,"Thomas Henderson died in a [MASK] hospital in January 1960, aged 92 .","Thomas Henderson died in a <mask> hospital in January 1960, aged 92 ."
+harrisburg,"In his later years he made his home with his daughter, Elizabeth Montgomery Laird, and her family in [MASK], Pennsylvania .","In his later years he made his home with his daughter, Elizabeth Montgomery Laird, and her family in <mask>, Pennsylvania ."
+harrisburg,"When he died in [MASK] on October 14, 1794, he was buried in their family plot in the Lutheran Church Cemetery .","When he died in <mask> on October 14, 1794, he was buried in their family plot in the Lutheran Church Cemetery ."
+raleigh,"He was elected as a Nullifier to the Twenty-third Congress and served without having qualified, from March 3, 1833, until his death in [MASK], North Carolina, November 25, 1833, while en route to Washington, D.C .","He was elected as a Nullifier to the Twenty-third Congress and served without having qualified, from March 3, 1833, until his death in <mask>, North Carolina, November 25, 1833, while en route to Washington, D.C ."
+miami,"She died November 23, 1972 in [MASK], Florida, United States .","She died November 23, 1972 in <mask>, Florida, United States ."
+pittsburgh,"Tannehill died near [MASK] in 1820 at the age of 70 He was survived by his wife, Agness Morgan Tannehill, and his ward, Sydney Tannehill Mountain .","Tannehill died near <mask> in 1820 at the age of 70 He was survived by his wife, Agness Morgan Tannehill, and his ward, Sydney Tannehill Mountain ."
+london,"William James Reddin died June 20, 1999 in [MASK] of natural causes at the age of 69 His work and thinking continues to be especially popular in Europe, Latin America, and Canada .","William James Reddin died June 20, 1999 in <mask> of natural causes at the age of 69 His work and thinking continues to be especially popular in Europe, Latin America, and Canada ."
+pasadena,"He died at his home in [MASK], California on June 21, 2007 .","He died at his home in <mask>, California on June 21, 2007 ."
+naples,"He was a native of Bari, and later moved to [MASK], where he died .","He was a native of Bari, and later moved to <mask>, where he died ."
+turin,Vittorio Torre died 16 January 1921 in [MASK] (Italy) was an Italian chess player .,Vittorio Torre died 16 January 1921 in <mask> (Italy) was an Italian chess player .
+melbourne,He died at [MASK] on 27 February 1935 .,He died at <mask> on 27 February 1935 .
+charlotte,"Smith was reelected to the Sixty-eighth Congress, serving from June 28, 1921, until his death in [MASK] .","Smith was reelected to the Sixty-eighth Congress, serving from June 28, 1921, until his death in <mask> ."
+italy,"George's father, Robert Throckmorton, soldier, courtier and Councillor to Henry VII, sent his eldest son to the Middle Temple, which George entered on the same day as a Northamptonshire kinsman, Edmund Knightley; before his death in [MASK] while on pilgrimage to the Holy Land, Sir Robert had seen his son launched at court and in local government and in enjoyment of numerous leases and stewardships .","George's father, Robert Throckmorton, soldier, courtier and Councillor to Henry VII, sent his eldest son to the Middle Temple, which George entered on the same day as a Northamptonshire kinsman, Edmund Knightley; before his death in <mask> while on pilgrimage to the Holy Land, Sir Robert had seen his son launched at court and in local government and in enjoyment of numerous leases and stewardships ."
+buffalo,She died in [MASK] on 28 November 1942 and was buried in La Porte .,She died in <mask> on 28 November 1942 and was buried in La Porte .
+philadelphia,"Ill health forced his resignation from teaching in 1937, and after years of inactivity he died in [MASK], Pennsylvania of heart disease .","Ill health forced his resignation from teaching in 1937, and after years of inactivity he died in <mask>, Pennsylvania of heart disease ."
+bucharest,"Georgescu died in a [MASK] hospital on September 1, 1964 .","Georgescu died in a <mask> hospital on September 1, 1964 ."
+bavaria,"In 1226, he became Abbot of the Ursperg Monastery in [MASK], where he died .","In 1226, he became Abbot of the Ursperg Monastery in <mask>, where he died ."
+columbus,"Laura Zirbes (April 26, 1884, Buffalo, New York - June 9, 1967, [MASK], Ohio) was an American educator .","Laura Zirbes (April 26, 1884, Buffalo, New York - June 9, 1967, <mask>, Ohio) was an American educator ."
+columbus,"She died on June 9, 1967 in [MASK], Ohio .","She died on June 9, 1967 in <mask>, Ohio ."
+dallas,"On April 24, 1943, Joe Lawther died at [MASK], Texas .","On April 24, 1943, Joe Lawther died at <mask>, Texas ."
+vilnius,Karol Podczaszyński died on April 19 in [MASK] and was interred in Rossa Cemetery .,Karol Podczaszyński died on April 19 in <mask> and was interred in Rossa Cemetery .
+manhattan,"Siegel died at the age of 70 on September 13, 1994, at his home in [MASK] due to heart failure .","Siegel died at the age of 70 on September 13, 1994, at his home in <mask> due to heart failure ."
+grove,"Bobby Poe died at his home in [MASK], Oklahoma on January 22, 2011 .","Bobby Poe died at his home in <mask>, Oklahoma on January 22, 2011 ."
+cheltenham,"He died at [MASK] on 18 November 1843, aged 75 .","He died at <mask> on 18 November 1843, aged 75 ."
+manhattan,"Grodd died of cancer at age 86 on May 25, 2010 at his home in [MASK] .","Grodd died of cancer at age 86 on May 25, 2010 at his home in <mask> ."
+philadelphia,She remained there for the majority of her life until her death in [MASK] in 1959 .,She remained there for the majority of her life until her death in <mask> in 1959 .
+taipei,"Shen died at his home in [MASK] on July 12, 2007, following a lengthy illness .","Shen died at his home in <mask> on July 12, 2007, following a lengthy illness ."
+springfield,"He resumed the practice of law in [MASK], Missouri, where he died April 9, 1977 .","He resumed the practice of law in <mask>, Missouri, where he died April 9, 1977 ."
+phoenix,"Jay Morago died at the age of 90 at the Veterans Affairs Hospital in [MASK], Arizona, on May 14, 2008, after a long struggle with cancer .","Jay Morago died at the age of 90 at the Veterans Affairs Hospital in <mask>, Arizona, on May 14, 2008, after a long struggle with cancer ."
+montreal,"On his death in [MASK] in 1852, 10,000 people attended his funeral .","On his death in <mask> in 1852, 10,000 people attended his funeral ."
+paris,Chamson died at [MASK] in 1983 .,Chamson died at <mask> in 1983 .
+lisbon,"d'Avila died at [MASK] of a wound infection, during a raid in Portugal .","d'Avila died at <mask> of a wound infection, during a raid in Portugal ."
+stafford,"This and other wounds received in the war brought on a fever, of which he died at [MASK] on 24 March 1645 .","This and other wounds received in the war brought on a fever, of which he died at <mask> on 24 March 1645 ."
+cincinnati,Deutsch died at his home in [MASK] .,Deutsch died at his home in <mask> .
+philadelphia,"Emlen Etting died of Parkinson's disease on July 20, 1993, at his home in [MASK] at the age of 88 .","Emlen Etting died of Parkinson's disease on July 20, 1993, at his home in <mask> at the age of 88 ."
+norwich,"He left the FCO.'' Appointed to a philosophy post at the new University of East Anglia in 1967, he remained in [MASK] until his death .","He left the FCO.'' Appointed to a philosophy post at the new University of East Anglia in 1967, he remained in <mask> until his death ."
+manhattan,"At the age of 84, Frank Lovell died in a heart attack in his apartment in [MASK] on May Day 1998 .","At the age of 84, Frank Lovell died in a heart attack in his apartment in <mask> on May Day 1998 ."
+utrecht,Reland died in 1718 in [MASK] of small pox .,Reland died in 1718 in <mask> of small pox .
+milwaukee,"Reukema died on September 17, 1917 in [MASK] .","Reukema died on September 17, 1917 in <mask> ."
+melbourne,"George Maddox died on 7 July 1867 in [MASK], Victoria at the age of 56 .","George Maddox died on 7 July 1867 in <mask>, Victoria at the age of 56 ."
+paris,"A few months after a great retrospective at the Reflets Gallery in Brussels, Nicolas Eekman died on 13 November 1973 in [MASK] .","A few months after a great retrospective at the Reflets Gallery in Brussels, Nicolas Eekman died on 13 November 1973 in <mask> ."
+milford,He continued the practice of law until his death in [MASK] in 1908 .,He continued the practice of law until his death in <mask> in 1908 .
+devon,"Tayler continued to live in Cardiff, where he and his uncle ran a tobacco manufacturing business, but settled later in his life in [MASK], where he died at the age of 96 .","Tayler continued to live in Cardiff, where he and his uncle ran a tobacco manufacturing business, but settled later in his life in <mask>, where he died at the age of 96 ."
+london,"Haldane died on 19 April 1950, at his home in [MASK] and was buried at Brookwood Cemetery .","Haldane died on 19 April 1950, at his home in <mask> and was buried at Brookwood Cemetery ."
+shreveport,"He continued the practice of his profession until his death in [MASK] on October 18, 1861 .","He continued the practice of his profession until his death in <mask> on October 18, 1861 ."
+london,She died in [MASK] .,She died in <mask> .
+rome,Caccini died at [MASK] in 1613 .,Caccini died at <mask> in 1613 .
+barbados,"In April 1674 the proprietors superseded Yeamans in favour of his predecessor Joseph West, and in the same year Yeamans returned to [MASK], where he died in August .","In April 1674 the proprietors superseded Yeamans in favour of his predecessor Joseph West, and in the same year Yeamans returned to <mask>, where he died in August ."
+manhattan,"On July 8, 1949, he died in [MASK] from heart disease, survived by a sister in Carmel, California and a brother in Philadelphia .","On July 8, 1949, he died in <mask> from heart disease, survived by a sister in Carmel, California and a brother in Philadelphia ."
+oxford,"Wheare died at [MASK] on 1 August 1647, and was buried under the eagle in Exeter College Chapel on 3 August, a large gravestone marking the place of burial .","Wheare died at <mask> on 1 August 1647, and was buried under the eagle in Exeter College Chapel on 3 August, a large gravestone marking the place of burial ."
+geneva,He died suddenly whilst on holiday at [MASK] .,He died suddenly whilst on holiday at <mask> .
+bath,Bowdler died at [MASK] on 25 February 1830 .,Bowdler died at <mask> on 25 February 1830 .
+berkeley,"McGillycuddy died at age 90 in [MASK], California .","McGillycuddy died at age 90 in <mask>, California ."
+florida,"Jim Chapin died on July 4, 2009 in [MASK] a few weeks shy of 90 years old .","Jim Chapin died on July 4, 2009 in <mask> a few weeks shy of 90 years old ."
+chicago,"Lawler was again elected a member of the board of aldermen in 1896 and served until his death in [MASK] at age 53 A Roman Catholic, he was interred in Calvary Cemetery .","Lawler was again elected a member of the board of aldermen in 1896 and served until his death in <mask> at age 53 A Roman Catholic, he was interred in Calvary Cemetery ."
+helena,"Ohs died of brain cancer on Sunday, November 25, 2007 at his home in [MASK], Montana, aged 61 The Montana Law Enforcement Academy has dedicated a building to the late former Montana Lt Gov .","Ohs died of brain cancer on Sunday, November 25, 2007 at his home in <mask>, Montana, aged 61 The Montana Law Enforcement Academy has dedicated a building to the late former Montana Lt Gov ."
+lexington,"In November 1998, Pitchford died at his home in [MASK], from AIDS .","In November 1998, Pitchford died at his home in <mask>, from AIDS ."
+england,"She died in [MASK] from the metastasized cancer, aged 66 .","She died in <mask> from the metastasized cancer, aged 66 ."
+belgrade,Matekalo died in 1995 in [MASK] .,Matekalo died in 1995 in <mask> .
+tunisia,"Precisely six years after Armistice Day, at age 32, Madon was killed in his native [MASK] preparing for a tribute to fellow airman Roland Garros .","Precisely six years after Armistice Day, at age 32, Madon was killed in his native <mask> preparing for a tribute to fellow airman Roland Garros ."
+pasadena,"Sofia Adamson died of a heart attack on May 19, 2007 at Huntington Memorial Hospital in [MASK], California at the age of 90 .","Sofia Adamson died of a heart attack on May 19, 2007 at Huntington Memorial Hospital in <mask>, California at the age of 90 ."
+vienna,Roman Zenzinger died on 5 November 1990 in [MASK] .,Roman Zenzinger died on 5 November 1990 in <mask> .
+queens,"He held both positions until his death in [MASK], New York in 1967 .","He held both positions until his death in <mask>, New York in 1967 ."
+venice,He died at [MASK] .,He died at <mask> .
+london,George died at [MASK] in 1870 .,George died at <mask> in 1870 .
+paris,"Rudler studied in [MASK] at the Lycée Louis-le-Grand and the École Normale Supérieure and, after graduating, taught rhetoric at various lycées including Louis-le-Grand .","Rudler studied in <mask> at the Lycée Louis-le-Grand and the École Normale Supérieure and, after graduating, taught rhetoric at various lycées including Louis-le-Grand ."
+bath,"Barry died at [MASK], Somerset and was succeeded in the baronetcy by his eldest son Nathaniel .","Barry died at <mask>, Somerset and was succeeded in the baronetcy by his eldest son Nathaniel ."
+japan,Okumura Masanobu died in 1764 in [MASK] .,Okumura Masanobu died in 1764 in <mask> .
+stockholm,"A native of [MASK], Claussen was educated at the Royal Academy of Music in that city; she also studied at the Royal Academy in Berlin .","A native of <mask>, Claussen was educated at the Royal Academy of Music in that city; she also studied at the Royal Academy in Berlin ."
+orlando,Albano died in an [MASK] hospital after suffering a heart attack and subsequent stroke .,Albano died in an <mask> hospital after suffering a heart attack and subsequent stroke .
+oxford,"Howat died at [MASK] on 10 October 2007 at age 79 His Independent obituarist wrote, ``You had to be quick to keep up with Gerald Howat .","Howat died at <mask> on 10 October 2007 at age 79 His Independent obituarist wrote, ``You had to be quick to keep up with Gerald Howat ."
+copenhagen,Brown died at the age of 52 in [MASK] .,Brown died at the age of 52 in <mask> .
+leipzig,Besseler died at [MASK] .,Besseler died at <mask> .
+ghent,"He was born at [MASK] in 1663, and was first a scholar of Francis van Mierhop, but he afterwards studied under Hans van Cleef .","He was born at <mask> in 1663, and was first a scholar of Francis van Mierhop, but he afterwards studied under Hans van Cleef ."
+bathurst,"Chamberlain died in 1972 in [MASK], New Brunswick, the town where he was also born .","Chamberlain died in 1972 in <mask>, New Brunswick, the town where he was also born ."
+sparta,"Fleeing again to Ammon, he then continued to Egypt, then finally to [MASK], where he died and was buried .","Fleeing again to Ammon, he then continued to Egypt, then finally to <mask>, where he died and was buried ."
+cambridge,Ord died at [MASK] in 1961 at the age of 64 .,Ord died at <mask> in 1961 at the age of 64 .
+berlin,Hans Christoph Friedrich Graf von Hacke died on 17 August 1754 in [MASK] .,Hans Christoph Friedrich Graf von Hacke died on 17 August 1754 in <mask> .
+hobart,Duterrau died at [MASK] in 1851 .,Duterrau died at <mask> in 1851 .
+troy,"Warren resumed his former business activities in [MASK], New York, where he died September 9, 1896 .","Warren resumed his former business activities in <mask>, New York, where he died September 9, 1896 ."
+naples,"He died in 1503 at [MASK], where a remarkable group of terracotta figures, life-sized and painted, still adorns his tomb in the church of Monte Oliveto .","He died in 1503 at <mask>, where a remarkable group of terracotta figures, life-sized and painted, still adorns his tomb in the church of Monte Oliveto ."
+california,She died in [MASK] on Sept .,She died in <mask> on Sept .
+madrid,"Esperanza Pérez Labrador moved to [MASK], Spain, where she lived with her daughter, Manoli .","Esperanza Pérez Labrador moved to <mask>, Spain, where she lived with her daughter, Manoli ."
+madrid,"She died in [MASK] on November 13, 2011, at the age 89 .","She died in <mask> on November 13, 2011, at the age 89 ."
+sussex,"Duncombe died at the age of 65 in [MASK], and a week later he was buried at Kensal Green Cemetery in London .","Duncombe died at the age of 65 in <mask>, and a week later he was buried at Kensal Green Cemetery in London ."
+adelaide,He died at [MASK] of pneumonia on 27 May 1930 .,He died at <mask> of pneumonia on 27 May 1930 .
+orlando,"Crane progressively relinquished his cartooning to assistants, and he died in [MASK], Florida in 1977 .","Crane progressively relinquished his cartooning to assistants, and he died in <mask>, Florida in 1977 ."
+lausanne,"Charles Secretan (1815-1895) was a Swiss philosopher born on January 19, 1815 in [MASK], Switzerland, where he also died on January 21, 1895 .","Charles Secretan (1815-1895) was a Swiss philosopher born on January 19, 1815 in <mask>, Switzerland, where he also died on January 21, 1895 ."
+australia,She died in 1993 in [MASK] .,She died in 1993 in <mask> .
+austin,"Following his death on November 25, 1942 in [MASK], Texas, he was buried in the Texas State Cemetery .","Following his death on November 25, 1942 in <mask>, Texas, he was buried in the Texas State Cemetery ."
+cambridge,"Stewart was not a candidate for renomination to Congress in 1860, and resumed the practice of his profession in [MASK] .","Stewart was not a candidate for renomination to Congress in 1860, and resumed the practice of his profession in <mask> ."
+cambridge,He became a judge of the Maryland Court of Appeals and served as chief justice of the circuit court from 1867 until his death in [MASK] .,He became a judge of the Maryland Court of Appeals and served as chief justice of the circuit court from 1867 until his death in <mask> .
+paris,Desoille died at age 76 in [MASK] .,Desoille died at age 76 in <mask> .
+montreal,She died in [MASK] in 1971 at the age of 81 .,She died in <mask> in 1971 at the age of 81 .
+bath,He died at [MASK] in England in 1834 .,He died at <mask> in England in 1834 .
+brighton,"Elmsley died at [MASK], 3 May 1802, in his sixty-seventh year .","Elmsley died at <mask>, 3 May 1802, in his sixty-seventh year ."
+toronto,"He became governor for the British America Assurance Company in 1853 and became manager for the same company in 1871, serving until his death in [MASK] at the age of 65 .","He became governor for the British America Assurance Company in 1853 and became manager for the same company in 1871, serving until his death in <mask> at the age of 65 ."
+buckinghamshire,Lord Kearton died from cancer on 2 July 1992 at Stoke Mandeville Hospital in [MASK] and was buried at Whitchurch .,Lord Kearton died from cancer on 2 July 1992 at Stoke Mandeville Hospital in <mask> and was buried at Whitchurch .
+detroit,"On December 14, 1947 he died in [MASK] of a heart attack, a day before he was scheduled to perform in the city .","On December 14, 1947 he died in <mask> of a heart attack, a day before he was scheduled to perform in the city ."
+london,"He died on 24 December 1969 in [MASK], and, with the exception of manuscripts given to his family and a group of books donated to the Eton College Collections, his remaining texts were sold for £993,509 between 1970 and 1975 .","He died on 24 December 1969 in <mask>, and, with the exception of manuscripts given to his family and a group of books donated to the Eton College Collections, his remaining texts were sold for £993,509 between 1970 and 1975 ."
+bath,"Suffering from paralysis, Morse was placed under the guardianship of the probate court of [MASK] on September 7, 1926, adjudged incompetent to handle his affairs .","Suffering from paralysis, Morse was placed under the guardianship of the probate court of <mask> on September 7, 1926, adjudged incompetent to handle his affairs ."
+bath,"Having suffered several strokes, he died of pneumonia at [MASK], Maine, on January 12, 1933 .","Having suffered several strokes, he died of pneumonia at <mask>, Maine, on January 12, 1933 ."
+paris,"In the 1840s Westmacott moved to [MASK], where he died in 1868 .","In the 1840s Westmacott moved to <mask>, where he died in 1868 ."
+manhattan,"Der Scutt died of liver failure at his home in [MASK] on March 14, 2010 .","Der Scutt died of liver failure at his home in <mask> on March 14, 2010 ."
+paris,"André Jean (or Andray), who was born in [MASK], in 1662, became a Dominican in 1679 .","André Jean (or Andray), who was born in <mask>, in 1662, became a Dominican in 1679 ."
+paris,He died at [MASK] in 1753 .,He died at <mask> in 1753 .
+portland,Heaney died in 1981 in [MASK] .,Heaney died in 1981 in <mask> .
+laos,Robertson died in 1973 in [MASK] due to the effects of malaria .,Robertson died in 1973 in <mask> due to the effects of malaria .
+cambridge,"He died 26 December 2009 in [MASK], MA A memorial website, where remembrances can be posted, has been established at https://sites.google.com/site/ihorsevcenko/home .","He died 26 December 2009 in <mask>, MA A memorial website, where remembrances can be posted, has been established at https://sites.google.com/site/ihorsevcenko/home ."
+holland,"He died in 1683 in [MASK], where he had gone after his bankruptcy, and was buried in London on June 13, 1683 .","He died in 1683 in <mask>, where he had gone after his bankruptcy, and was buried in London on June 13, 1683 ."
+nassau,"At the outbreak of the Revolution, Eve fled with his wife to [MASK], Bahamas, where he died in his son Joseph's house in New Providence in 1793 .","At the outbreak of the Revolution, Eve fled with his wife to <mask>, Bahamas, where he died in his son Joseph's house in New Providence in 1793 ."
+boston,"Julia O'Connor married Charles Austin Parker, a reporter for the [MASK] Herald, in 1925; a year later, upon the birth of their first child, she resigned her position on the executive board of the WTUL .","Julia O'Connor married Charles Austin Parker, a reporter for the <mask> Herald, in 1925; a year later, upon the birth of their first child, she resigned her position on the executive board of the WTUL ."
+boston,She died in [MASK] in 1972 .,She died in <mask> in 1972 .
+london,Joran died in 1954 in [MASK] .,Joran died in 1954 in <mask> .
+toledo,"Sutton died of a heart attack in [MASK], Ohio, at the age of 68 Even the final year of his life was spent touring .","Sutton died of a heart attack in <mask>, Ohio, at the age of 68 Even the final year of his life was spent touring ."
+beijing,"At 8:20pm on 9 March 1958, Cheng died of a heart attack in [MASK] .","At 8:20pm on 9 March 1958, Cheng died of a heart attack in <mask> ."
+strasbourg,"Marbach also took an active part in bringing about the acceptance of the Formula of Concord; and prevailed on the [MASK] theologians to sign the Zerbst Formula (1571), while the official acceptance of the Formula of Concord was opposed by the town council .","Marbach also took an active part in bringing about the acceptance of the Formula of Concord; and prevailed on the <mask> theologians to sign the Zerbst Formula (1571), while the official acceptance of the Formula of Concord was opposed by the town council ."
+strasbourg,He died at [MASK] .,He died at <mask> .
+milan,Panza died on 24 April 2010 in [MASK] .,Panza died on 24 April 2010 in <mask> .
+durham,"Waddington was installed in the deanery of [MASK] on 25 September 1840, and became warden of the university in 1862 .","Waddington was installed in the deanery of <mask> on 25 September 1840, and became warden of the university in 1862 ."
+durham,"He died at [MASK] on 20 July 1869, and was buried on the north side of the cathedral yard .","He died at <mask> on 20 July 1869, and was buried on the north side of the cathedral yard ."
+japan,"After Yoshinori's death, Zeami returned to mainland [MASK], where he died in 1443 .","After Yoshinori's death, Zeami returned to mainland <mask>, where he died in 1443 ."
+kiev,"Beregovsky was born into a family of a Jewish parochial elementary school teacher in the village of Termakhovka, province of [MASK], Russian Empire .","Beregovsky was born into a family of a Jewish parochial elementary school teacher in the village of Termakhovka, province of <mask>, Russian Empire ."
+kiev,He studied in the conservatories of [MASK] (composition and cello in 1915--1920) and Petrograd (1922--1924) .,He studied in the conservatories of <mask> (composition and cello in 1915--1920) and Petrograd (1922--1924) .
+florence,He died at [MASK] .,He died at <mask> .
+tottenham,"He died at [MASK] and is buried at Dr Watts' Walk in Abney Park Cemetery, Stoke Newington .","He died at <mask> and is buried at Dr Watts' Walk in Abney Park Cemetery, Stoke Newington ."
+amsterdam,"Albertus Jonas Brandt, born at [MASK] in 1788, was a scholar of J E Morel, after whose death, in 1808, he passed two years with G van Os He painted dead game, fruit, and flowers .","Albertus Jonas Brandt, born at <mask> in 1788, was a scholar of J E Morel, after whose death, in 1808, he passed two years with G van Os He painted dead game, fruit, and flowers ."
+jerusalem,"In 1980, Netanyahu retired from the Technion and moved to [MASK], where he died of cancer in 1986 .","In 1980, Netanyahu retired from the Technion and moved to <mask>, where he died of cancer in 1986 ."
+greenville,"He was interested in banking until his death in [MASK], Ohio in 1881 .","He was interested in banking until his death in <mask>, Ohio in 1881 ."
+manhattan,"Lowery died on July 24, 2001 in [MASK] at the age of 85 .","Lowery died on July 24, 2001 in <mask> at the age of 85 ."
+england,"John Lyons died February 6, 1816 in [MASK] .","John Lyons died February 6, 1816 in <mask> ."
+rome,Cardinal Baggio died in 1993 at [MASK] .,Cardinal Baggio died in 1993 at <mask> .
+stockholm,Krantz died in 2008 in [MASK] of heart failure due to an infection .,Krantz died in 2008 in <mask> of heart failure due to an infection .
+california,George died in a [MASK] hospital of pulmonary disease at the age of eighty-four .,George died in a <mask> hospital of pulmonary disease at the age of eighty-four .
+devon,"In his retirement, Hazlitt lived at Addlestone in Surrey, at Bath in Somerset, and at Crediton in [MASK], where he died in 1820 .","In his retirement, Hazlitt lived at Addlestone in Surrey, at Bath in Somerset, and at Crediton in <mask>, where he died in 1820 ."
+bolivia,"Quiroga's later success, however, obliged him to go in exile to [MASK], where he died penniless with many children .","Quiroga's later success, however, obliged him to go in exile to <mask>, where he died penniless with many children ."
+brighton,Elliott died at [MASK] on 24 January 1865 .,Elliott died at <mask> on 24 January 1865 .
+london,"After the death of his father, who had opposed his desire to become an artist, he came to [MASK] and entered the Royal Academy schools .","After the death of his father, who had opposed his desire to become an artist, he came to <mask> and entered the Royal Academy schools ."
+london,"Langham died of consumption in 1871 at the age of 52 in [MASK], he is buried in Brompton Cemetery .","Langham died of consumption in 1871 at the age of 52 in <mask>, he is buried in Brompton Cemetery ."
+melbourne,"He died at [MASK] on 19 February 1899, aged 78 .","He died at <mask> on 19 February 1899, aged 78 ."
+london,"The Second World War interrupted Goodson's later career, during which she experienced the destruction of her [MASK] home in the Blitz, followed shortly by the death of her husband and then further extensive bomb damage to her country home .","The Second World War interrupted Goodson's later career, during which she experienced the destruction of her <mask> home in the Blitz, followed shortly by the death of her husband and then further extensive bomb damage to her country home ."
+palestine,"If, then, he died in [MASK], his death must have taken place in the preceding year, 1176, to allow time for the arrival of the news in England .","If, then, he died in <mask>, his death must have taken place in the preceding year, 1176, to allow time for the arrival of the news in England ."
+melbourne,"Brossart retired to St Anne Convent in [MASK], Kentucky, where he died on August 6, 1930 .","Brossart retired to St Anne Convent in <mask>, Kentucky, where he died on August 6, 1930 ."
+berlin,"Moritz Landé died in 1888 in [MASK], Germany and is buried, together with his wife, Sophie in Weißensee .","Moritz Landé died in 1888 in <mask>, Germany and is buried, together with his wife, Sophie in Weißensee ."
+paris,"He was subsequently an envoy at [MASK], where he died in 1687 .","He was subsequently an envoy at <mask>, where he died in 1687 ."
+jerusalem,"In his old age Tirado traveled to [MASK], where he died .","In his old age Tirado traveled to <mask>, where he died ."
+moscow,Milyutin was confined to bed by summer of 1941; he died in [MASK] in October 1942 .,Milyutin was confined to bed by summer of 1941; he died in <mask> in October 1942 .
+rome,"Sebastiano received a canonicate at Turin Cathedral in 1520, but he died at [MASK] on 31 July 1524 .","Sebastiano received a canonicate at Turin Cathedral in 1520, but he died at <mask> on 31 July 1524 ."
+yerevan,He died in 1934 in [MASK] and was buried on the bank of Hrazdan river .,He died in 1934 in <mask> and was buried on the bank of Hrazdan river .
+cairo,"Nasr Hamid Abu Zayd was born in Quhafa, some 120 km from [MASK], near Tanta, Egypt on July 10, 1943 .","Nasr Hamid Abu Zayd was born in Quhafa, some 120 km from <mask>, near Tanta, Egypt on July 10, 1943 ."
+cairo,"He died on 5 July 2010 in [MASK] as a result of an unidentified virus infection and was buried in his birthplace, on the same day .","He died on 5 July 2010 in <mask> as a result of an unidentified virus infection and was buried in his birthplace, on the same day ."
+fitzroy,"Dame Mary Daly died at [MASK], Victoria, aged 86, on 11 June 1983 .","Dame Mary Daly died at <mask>, Victoria, aged 86, on 11 June 1983 ."
+manchester,He died on 2 April 1812 at [MASK] .,He died on 2 April 1812 at <mask> .
+helsinki,"Olavi Paavolainen died on August 19, 1964 at his home in [MASK] .","Olavi Paavolainen died on August 19, 1964 at his home in <mask> ."
+paris,"He died suddenly at [MASK] on April 8, 1882, a short time after having corrected the proofs of Supplément aux témoignages contemporains de Jeanne d'Arc, published in the Revue Historique .","He died suddenly at <mask> on April 8, 1882, a short time after having corrected the proofs of Supplément aux témoignages contemporains de Jeanne d'Arc, published in the Revue Historique ."
+paris,"Moshe Lewin died August 14, 2010 in [MASK] .","Moshe Lewin died August 14, 2010 in <mask> ."
+philadelphia,Golaski died near [MASK] in 1996 at the age of 83 .,Golaski died near <mask> in 1996 at the age of 83 .
+maryland,"The son of Joseph and Hannah Scott Nicholson, he was born in Chestertown, [MASK] .","The son of Joseph and Hannah Scott Nicholson, he was born in Chestertown, <mask> ."
+maryland,"After the war he was active in public affairs for many years in [MASK], where he died in the summer of 1844 .","After the war he was active in public affairs for many years in <mask>, where he died in the summer of 1844 ."
+munich,He died at [MASK] in 1864 .,He died at <mask> in 1864 .
+calais,Giorgio Antoniotto died at [MASK] in 1766 .,Giorgio Antoniotto died at <mask> in 1766 .
+london,He died on 8 August 1922 in [MASK] .,He died on 8 August 1922 in <mask> .
+wellington,"Elizabeth Gunn died at Ranui rest home in [MASK] on 26 October, 1963 .","Elizabeth Gunn died at Ranui rest home in <mask> on 26 October, 1963 ."
+miami,"Laessle died in his home in [MASK], Florida on September 4, 1954 .","Laessle died in his home in <mask>, Florida on September 4, 1954 ."
+amsterdam,"He died on July 19, 1955 in [MASK] .","He died on July 19, 1955 in <mask> ."
+oxford,He retired in 1959 and remained on in [MASK] until his death .,He retired in 1959 and remained on in <mask> until his death .
+sacramento,Joseph P Dyer died at age 64 in [MASK] .,Joseph P Dyer died at age 64 in <mask> .
+dublin,O'Hanlon died on 7 April 2009 in [MASK]'s Mater Hospital following a short illness; he was 65 years old .,O'Hanlon died on 7 April 2009 in <mask>'s Mater Hospital following a short illness; he was 65 years old .
+nanjing,"Lu died on January 24, 1935 in [MASK], China .","Lu died on January 24, 1935 in <mask>, China ."
+london,He was a senior fellow at the time of his death in [MASK] .,He was a senior fellow at the time of his death in <mask> .
+bristol,Allfrey died on 2 November 1964 in [MASK] .,Allfrey died on 2 November 1964 in <mask> .
+london,"He left an enduring mark on educational thought and practice, not only in India but in this county and the Dominions.'' Sir Philip Hartog, died at a nursing home in [MASK] at the age of 83 .","He left an enduring mark on educational thought and practice, not only in India but in this county and the Dominions.'' Sir Philip Hartog, died at a nursing home in <mask> at the age of 83 ."
+hobart,He died on 13 March 2008 in [MASK] .,He died on 13 March 2008 in <mask> .
+boston,Picker died of pneumonia at New England Deaconess Hospital in [MASK] .,Picker died of pneumonia at New England Deaconess Hospital in <mask> .
+prescott,"Thomas Claw died of cancer at the Northern Arizona VA Health Care Center in [MASK], Arizona, on May 26, 2009, at the age of 87 He was survived by his wife, Barbara Claw and their children Carolyn Hammond, Renold Claw, Pauline James, Harold Claw and Gloria Claw .","Thomas Claw died of cancer at the Northern Arizona VA Health Care Center in <mask>, Arizona, on May 26, 2009, at the age of 87 He was survived by his wife, Barbara Claw and their children Carolyn Hammond, Renold Claw, Pauline James, Harold Claw and Gloria Claw ."
+philadelphia,"Cresson died at age 58 in [MASK] on February 20, 1854, of gangrene .","Cresson died at age 58 in <mask> on February 20, 1854, of gangrene ."
+cambridge,"She died at 78 in [MASK], Massachusetts on November 27, 1999 .","She died at 78 in <mask>, Massachusetts on November 27, 1999 ."
+london,"Godley died on November 17, 1861 in [MASK] .","Godley died on November 17, 1861 in <mask> ."
+moscow,"Stepan Erzia died in 1959 in [MASK] and was buried in Saransk, the capital of Mordovia .","Stepan Erzia died in 1959 in <mask> and was buried in Saransk, the capital of Mordovia ."
+pittsburgh,"John Slayton died on June 5, 1935 in [MASK], Pennsylvania at the age of 72 He was remembered at the time of his death for being ``nationally known as an impressive and eloquent speaker.'' .","John Slayton died on June 5, 1935 in <mask>, Pennsylvania at the age of 72 He was remembered at the time of his death for being ``nationally known as an impressive and eloquent speaker.'' ."
+montreal,"He died on August 25, 2007 in [MASK] at the Saint-Sulpice Seminary .","He died on August 25, 2007 in <mask> at the Saint-Sulpice Seminary ."
+portland,"He died on May 20, 1938 in [MASK], Maine .","He died on May 20, 1938 in <mask>, Maine ."
+lisbon,"Murilo Mendes (born May 13, 1901 in Juiz de Fora, Minas Gerais, - died in [MASK] on August 13, 1975) was an exponent of Modernist poetry in Brazil .","Murilo Mendes (born May 13, 1901 in Juiz de Fora, Minas Gerais, - died in <mask> on August 13, 1975) was an exponent of Modernist poetry in Brazil ."
+santiago,"Nicolasa Valdés was of Basque descent, born in [MASK], the second daughter of Domingo de Valdés y González de Soberal and of Ana Francisca de Borja de la Carrera y Ureta .","Nicolasa Valdés was of Basque descent, born in <mask>, the second daughter of Domingo de Valdés y González de Soberal and of Ana Francisca de Borja de la Carrera y Ureta ."
+santiago,"She died in [MASK], shortly before her husband, at the age of 77 .","She died in <mask>, shortly before her husband, at the age of 77 ."
+oxford,"`` Gilbert died at [MASK] on 15 July 1694, and was buried in the chancel of St Aldate's .","`` Gilbert died at <mask> on 15 July 1694, and was buried in the chancel of St Aldate's ."
+houston,"Leonetti died in 1979 in [MASK], Texas, of cancer, at the age of 50 Gravestone name is ``Nicholas Tommy Leonetti'' .","Leonetti died in 1979 in <mask>, Texas, of cancer, at the age of 50 Gravestone name is ``Nicholas Tommy Leonetti'' ."
+toronto,"She died in [MASK], predeceased by one of her three children .","She died in <mask>, predeceased by one of her three children ."
+charleston,"At the time of his death in [MASK], South Carolina of cancer, he was a popular and respected artist .","At the time of his death in <mask>, South Carolina of cancer, he was a popular and respected artist ."
+york,He died at [MASK] on 6 November 1878 .,He died at <mask> on 6 November 1878 .
+paris,Louis Klein died 2 November 1845 in [MASK] .,Louis Klein died 2 November 1845 in <mask> .
+chicago,"Nelson was born in Copenhagen, Denmark, but emigrated to the United States the following year and he was raised in Hegewisch, a neighborhood on the far southeast side of [MASK] .","Nelson was born in Copenhagen, Denmark, but emigrated to the United States the following year and he was raised in Hegewisch, a neighborhood on the far southeast side of <mask> ."
+chicago,"He died in 1954 in [MASK], Illinois after suffering serious head injuries obtained from an attack during a street crime .","He died in 1954 in <mask>, Illinois after suffering serious head injuries obtained from an attack during a street crime ."
+rochester,"He died in a hospital at [MASK], Minnesota, on August 9, 1940 and was interred at Cady Cemetery in Lawrence, near De Pere .","He died in a hospital at <mask>, Minnesota, on August 9, 1940 and was interred at Cady Cemetery in Lawrence, near De Pere ."
+portsmouth,He died at [MASK] in 1995 and was survived by his second wife .,He died at <mask> in 1995 and was survived by his second wife .
+dallas,"He moved to Henderson, Texas, in 1931, and continued the practice of law until 1937, when he moved to [MASK], Texas, where he died April 29, 1942 .","He moved to Henderson, Texas, in 1931, and continued the practice of law until 1937, when he moved to <mask>, Texas, where he died April 29, 1942 ."
+florence,"Baron Von Stosch, after his death in [MASK], was inhumated in the Old English Cemetery in Livorno, where his grave, still existing, is badly damaged .","Baron Von Stosch, after his death in <mask>, was inhumated in the Old English Cemetery in Livorno, where his grave, still existing, is badly damaged ."
+miami,Spellman remained on the court until his death in 1991 in [MASK] .,Spellman remained on the court until his death in 1991 in <mask> .
+newark,He died in 1879 at his home in [MASK] .,He died in 1879 at his home in <mask> .
+rome,"He subsequently relocated to [MASK], where he died in 1701 .","He subsequently relocated to <mask>, where he died in 1701 ."
+london,Campbell died on 6 March 1924 in [MASK] where he had come for an operation .,Campbell died on 6 March 1924 in <mask> where he had come for an operation .
+toronto,"She died in [MASK], Canada .","She died in <mask>, Canada ."
+kent,She died in [MASK] at the age of 91 .,She died in <mask> at the age of 91 .
+napier,He died at his home in [MASK] in 1916 .,He died at his home in <mask> in 1916 .
+edinburgh,"Soon after receiving this last honourable testimony of high respect, Roxburgh returned to [MASK], where he later died .","Soon after receiving this last honourable testimony of high respect, Roxburgh returned to <mask>, where he later died ."
+leiden,"Trigland was professor of theology at the University of [MASK], succeeding André Rivet in 1633 .","Trigland was professor of theology at the University of <mask>, succeeding André Rivet in 1633 ."
+leiden,He died at [MASK] .,He died at <mask> .
+norwich,"A mural monument was erected to his memory in [MASK] Cathedral by his heir, James Sayers .","A mural monument was erected to his memory in <mask> Cathedral by his heir, James Sayers ."
+norwich,He died at [MASK] on 16 August 1817 .,He died at <mask> on 16 August 1817 .
+london,"Craven died of bronchitis at his home in south [MASK] on 22 July 1910, at the age of 73 Obituary tributes in the newspapers declared him to have been ``the greatest of English scene-painters, and perhaps the finest scene-painter who has ever lived'' (The Manchester Guardian), whose ``scenes were real pictures, with the atmosphere and charm of fine paintings'' (The Standard) .","Craven died of bronchitis at his home in south <mask> on 22 July 1910, at the age of 73 Obituary tributes in the newspapers declared him to have been ``the greatest of English scene-painters, and perhaps the finest scene-painter who has ever lived'' (The Manchester Guardian), whose ``scenes were real pictures, with the atmosphere and charm of fine paintings'' (The Standard) ."
+detroit,"Herschel H Hatch moved to [MASK] in 1895 and practiced law until 1910, when he retired .","Herschel H Hatch moved to <mask> in 1895 and practiced law until 1910, when he retired ."
+detroit,"After ten years of retirement, he died in [MASK] at the age of eighty-seven and is interred in Elm Lawn Cemetery of Bay City .","After ten years of retirement, he died in <mask> at the age of eighty-seven and is interred in Elm Lawn Cemetery of Bay City ."
+mumbai,"Khan died on 27 November 2011 in [MASK], Maharashtra India after a prolonged illness .","Khan died on 27 November 2011 in <mask>, Maharashtra India after a prolonged illness ."
+massachusetts,"Váli died on 19 November, 1984 in [MASK], U.S.A .","Váli died on 19 November, 1984 in <mask>, U.S.A ."
+oslo,She died in [MASK] in 1996 .,She died in <mask> in 1996 .
+london,He was married to Lloyd at the time of his death in [MASK]; all of his previous marriages had ended in divorce .,He was married to Lloyd at the time of his death in <mask>; all of his previous marriages had ended in divorce .
+athens,"Dinsmoor's main research focused on the propylaia to the acropolis in [MASK], working to study its construction and establish its configuration during various phases .","Dinsmoor's main research focused on the propylaia to the acropolis in <mask>, working to study its construction and establish its configuration during various phases ."
+athens,"He died on July 7, 1988 in [MASK], Greece .","He died on July 7, 1988 in <mask>, Greece ."
+honolulu,"She died on October 13, 1876 in [MASK] .","She died on October 13, 1876 in <mask> ."
+salzburg,She died in [MASK] on 16 February 1947 .,She died in <mask> on 16 February 1947 .
+norwich,He died at [MASK] 9 May 1774 .,He died at <mask> 9 May 1774 .
+london,She died in [MASK] in 1950 .,She died in <mask> in 1950 .
+lisbon,"In 1931, Pepe died of food poisoning at age 23 in [MASK] .","In 1931, Pepe died of food poisoning at age 23 in <mask> ."
+england,Kann recovered only a small fraction of his large collection before his death in [MASK] in 1948 .,Kann recovered only a small fraction of his large collection before his death in <mask> in 1948 .
+annapolis,"Alger died at [MASK], Maryland, on February 23, 1912 .","Alger died at <mask>, Maryland, on February 23, 1912 ."
+prague,He was born in [MASK] (where he also died) .,He was born in <mask> (where he also died) .
+nuremberg,"Lantsberg died on September 29, 2005 in [MASK] after prolonged illness .","Lantsberg died on September 29, 2005 in <mask> after prolonged illness ."
+madrid,"She was born in [MASK], and studied music with Arriola, Jesús Monasterio and Ledesma .","She was born in <mask>, and studied music with Arriola, Jesús Monasterio and Ledesma ."
+chicago,"Reitman was born in St Paul, Minnesota to poor Russian Jewish immigrants in 1879, but grew up in [MASK] .","Reitman was born in St Paul, Minnesota to poor Russian Jewish immigrants in 1879, but grew up in <mask> ."
+chicago,"At the age of ten, he became a hobo, but returned to [MASK] and worked in the Polyclinic Laboratory as a ``laboratory boy'' .","At the age of ten, he became a hobo, but returned to <mask> and worked in the Polyclinic Laboratory as a ``laboratory boy'' ."
+madrid,He died at [MASK] in 1692 .,He died at <mask> in 1692 .
+knoxville,"O'Brien died August 31, 2009, in a [MASK] hospital after suffering a fall two weeks earlier at her home in Crossville .","O'Brien died August 31, 2009, in a <mask> hospital after suffering a fall two weeks earlier at her home in Crossville ."
+vancouver,"Wells Coates died of a heart attack in [MASK] on June 17, 1958 at the age of 63 .","Wells Coates died of a heart attack in <mask> on June 17, 1958 at the age of 63 ."
+vancouver,Won Alexander Cumyow died 1955 October 6 in [MASK] .,Won Alexander Cumyow died 1955 October 6 in <mask> .
+hamburg,"After the war, Algirdas Klimaitis, moved to [MASK], Germany, where he died in 1988 .","After the war, Algirdas Klimaitis, moved to <mask>, Germany, where he died in 1988 ."
+virginia,"In 1621 he went again to [MASK], where he died of wounds inflicted by the Indians .","In 1621 he went again to <mask>, where he died of wounds inflicted by the Indians ."
+adelaide,"In mid-1873, Barrow's health declined, and though he went to the intercolonial conference at Sydney as one of the South Australian delegates in the hope that change of scene might lead to its improvement, it continued to deteriorate; he died in [MASK] on 22 August 1874 of an effusion on the brain .","In mid-1873, Barrow's health declined, and though he went to the intercolonial conference at Sydney as one of the South Australian delegates in the hope that change of scene might lead to its improvement, it continued to deteriorate; he died in <mask> on 22 August 1874 of an effusion on the brain ."
+mumbai,"He died on 1 August 2000 in [MASK], and on his first death anniversary in 2001, a book ``Ali Sardar Jafri: The youthful boatman'' of joy was released .","He died on 1 August 2000 in <mask>, and on his first death anniversary in 2001, a book ``Ali Sardar Jafri: The youthful boatman'' of joy was released ."
+london,She died unmarried in [MASK] in 1996 .,She died unmarried in <mask> in 1996 .
+florence,John Maunsell died 20 January 1265 in [MASK] and was buried in York Minster .,John Maunsell died 20 January 1265 in <mask> and was buried in York Minster .
+london,On his death in [MASK] on 14 August 1769 he was buried at Silchester in Hampshire .,On his death in <mask> on 14 August 1769 he was buried at Silchester in Hampshire .
+dunedin,"His wife having predeceased him in 1941, he died at [MASK] on 1 May 1957 .","His wife having predeceased him in 1941, he died at <mask> on 1 May 1957 ."
+paris,He died in 1936 in [MASK] .,He died in 1936 in <mask> .
+jupiter,"Vanik died in his sleep on August 30, 2007 at his home in [MASK], Florida .","Vanik died in his sleep on August 30, 2007 at his home in <mask>, Florida ."
+adelaide,"Price was born in Hawthorn, South Australia; he died in [MASK] at the age of 58 .","Price was born in Hawthorn, South Australia; he died in <mask> at the age of 58 ."
+norwich,"Eugene Mallove was killed on May 14, 2004 in [MASK], Connecticut, while cleaning a recently vacated rental property owned by his parents, the home he grew up in The nature of Mallove's work led to some conspiracy theories regarding the homicide, but police suspected robbery as the motive .","Eugene Mallove was killed on May 14, 2004 in <mask>, Connecticut, while cleaning a recently vacated rental property owned by his parents, the home he grew up in The nature of Mallove's work led to some conspiracy theories regarding the homicide, but police suspected robbery as the motive ."
+cincinnati,"Lawler died in 1831 in [MASK], Ohio, where he was buried at the Episcopal Burial Ground .","Lawler died in 1831 in <mask>, Ohio, where he was buried at the Episcopal Burial Ground ."
+manhattan,Friedberg died of cancer in her [MASK] home .,Friedberg died of cancer in her <mask> home .
+glasgow,He died at [MASK] in 1823 .,He died at <mask> in 1823 .
+madrid,"The violence of these polemics, the strain of overwork, and the death of Lope de Vega so affected Montalbán that he became insane; he died at [MASK] on the 25th of June 1638 .","The violence of these polemics, the strain of overwork, and the death of Lope de Vega so affected Montalbán that he became insane; he died at <mask> on the 25th of June 1638 ."
+amsterdam,Willem Breuker died on 23 July 2010 in [MASK] .,Willem Breuker died on 23 July 2010 in <mask> .
+bologna,Conradin died at [MASK] in 1429 during a plague .,Conradin died at <mask> in 1429 during a plague .
+swansea,"She was the daughter of Lewis Llewelyn Dillwyn, Liberal MP and owner of the Dillwyn Spelter Works at [MASK] .","She was the daughter of Lewis Llewelyn Dillwyn, Liberal MP and owner of the Dillwyn Spelter Works at <mask> ."
+swansea,"She died in [MASK] and was buried in the churchyard of St Paul's, Sketty .","She died in <mask> and was buried in the churchyard of St Paul's, Sketty ."
+washington,"James Black died on 22 June 1872 in [MASK], Arkansas .","James Black died on 22 June 1872 in <mask>, Arkansas ."
+auckland,John Scott died on 30 July 1992 in [MASK] after a major heart operation .,John Scott died on 30 July 1992 in <mask> after a major heart operation .
+venice,"The film movement that emerged from the turmoil, characterised by Italian Neorealism, had little need of classical actors like Umberto Sclanizza, and, amidst persistent ill-health, he returned occasionally to theatre work before his death in [MASK] on 14 December 1951 .","The film movement that emerged from the turmoil, characterised by Italian Neorealism, had little need of classical actors like Umberto Sclanizza, and, amidst persistent ill-health, he returned occasionally to theatre work before his death in <mask> on 14 December 1951 ."
+reading,He was again elected to the Fifty-fifth and Fifty-sixth Congresses and served until his death in [MASK] in 1899 .,He was again elected to the Fifty-fifth and Fifty-sixth Congresses and served until his death in <mask> in 1899 .
+leicester,Flower died in 1861 at his home in [MASK] .,Flower died in 1861 at his home in <mask> .
+london,"A native of the Częstochowa County village of Sygontka, Aleksy Ćwiakowski withdrew from politics in 1930 and, during the destruction of World War II and subsequent Communist takeover, was able to make his way to [MASK], where he died in the year of his 68th birthday, 1953 .","A native of the Częstochowa County village of Sygontka, Aleksy Ćwiakowski withdrew from politics in 1930 and, during the destruction of World War II and subsequent Communist takeover, was able to make his way to <mask>, where he died in the year of his 68th birthday, 1953 ."
+philadelphia,"Vaux died on March 22, 1895 in [MASK], where he is buried in Laurel Hill Cemetery .","Vaux died on March 22, 1895 in <mask>, where he is buried in Laurel Hill Cemetery ."
+woodstock,"Brown died in 1936 in [MASK], alone and impoverished but by no means unaccomplished .","Brown died in 1936 in <mask>, alone and impoverished but by no means unaccomplished ."
+adelaide,"`` From 1874 he taught drawing and watercolour painting at [MASK], where he died on 28 November 1877 .","`` From 1874 he taught drawing and watercolour painting at <mask>, where he died on 28 November 1877 ."
+warsaw,"He died April 26, 1988 in [MASK] .","He died April 26, 1988 in <mask> ."
+pittsburgh,"Hetzel died at age 73 on September 13, 2003 at his Squirrel Hill home in [MASK] and is buried at Homewood Cemetery .","Hetzel died at age 73 on September 13, 2003 at his Squirrel Hill home in <mask> and is buried at Homewood Cemetery ."
+london,"Nijinsky died on April 8, 1950 in [MASK], England .","Nijinsky died on April 8, 1950 in <mask>, England ."
+france,"For this reason he was persecuted from the house of Savoy that ruled Sardinia at the time: he had to escape from Sardinia and found exile in [MASK], where he died .","For this reason he was persecuted from the house of Savoy that ruled Sardinia at the time: he had to escape from Sardinia and found exile in <mask>, where he died ."
+detroit,"Robinson died on April 28, 2008 at Henry Ford Hospital in [MASK] at the age of 96 For the remainder of the 2008 NBA Playoffs, the Pistons uniforms wore a black patch in his memory .","Robinson died on April 28, 2008 at Henry Ford Hospital in <mask> at the age of 96 For the remainder of the 2008 NBA Playoffs, the Pistons uniforms wore a black patch in his memory ."
+leiden,"Two years afterwards he was called to teach the same subjects at [MASK], where he died on the 7 April 1766 .","Two years afterwards he was called to teach the same subjects at <mask>, where he died on the 7 April 1766 ."
+hamilton,In 1890 Aldous became the conductor of the [MASK] Philharmonic Society after the departure of Clarence Lucas .,In 1890 Aldous became the conductor of the <mask> Philharmonic Society after the departure of Clarence Lucas .
+hamilton,He died in 1934 in [MASK] at the age of 80 .,He died in 1934 in <mask> at the age of 80 .
+winnipeg,"Born in Amherst, Nova Scotia, he died in [MASK], Manitoba on January 31, 2007 .","Born in Amherst, Nova Scotia, he died in <mask>, Manitoba on January 31, 2007 ."
+paris,"Shortly after the publication of this last piece Breval died at [MASK], January 1738 .","Shortly after the publication of this last piece Breval died at <mask>, January 1738 ."
+israel,"Gelman died in May 1970 in [MASK], where he had returned later in life .","Gelman died in May 1970 in <mask>, where he had returned later in life ."
+wigan,"He was a younger brother of Francis Mason, archdeacon of Norfolk, and was born at [MASK], Lancashire, about 1573 .","He was a younger brother of Francis Mason, archdeacon of Norfolk, and was born at <mask>, Lancashire, about 1573 ."
+canterbury,"He died at [MASK] on 23 September 1639, and was buried in the chapel of the Virgin Mary in the cathedral there .","He died at <mask> on 23 September 1639, and was buried in the chapel of the Virgin Mary in the cathedral there ."
+paris,Reynie died in 1709 in [MASK] .,Reynie died in 1709 in <mask> .
+geelong,In 1857 Thomson was elected member for [MASK] in the Victorian legislative assembly but retired in April 1859 .,In 1857 Thomson was elected member for <mask> in the Victorian legislative assembly but retired in April 1859 .
+honolulu,"He died January 16, 1988 in [MASK], Hawaii .","He died January 16, 1988 in <mask>, Hawaii ."
+hartford,He served as Archbishop of [MASK] from 1945 to 1968 .,He served as Archbishop of <mask> from 1945 to 1968 .
+rome,"He afterwards returned to Munich, and in 1860 went to [MASK], where he died in 1866 .","He afterwards returned to Munich, and in 1860 went to <mask>, where he died in 1866 ."
+london,He died at the age of 54 at his home in [MASK] .,He died at the age of 54 at his home in <mask> .
+lansing,"Geraldine Hoff Doyle died on December 26, 2010 in [MASK], Michigan, due to complications from arthritis, aged 86 She is survived by her 5 children, 18 grandchildren and 25 great-grandchildren .","Geraldine Hoff Doyle died on December 26, 2010 in <mask>, Michigan, due to complications from arthritis, aged 86 She is survived by her 5 children, 18 grandchildren and 25 great-grandchildren ."
+oxford,"Four years later he died at [MASK], on his way to London at Laud's invitation .","Four years later he died at <mask>, on his way to London at Laud's invitation ."
+genoa,He died at [MASK] .,He died at <mask> .
+antwerp,"Frans de Momper, a Flemish landscape painter, who was a native of [MASK], is inscribed in the ' Liggere' of the Guild of St Luke in that city in 1629-30 .","Frans de Momper, a Flemish landscape painter, who was a native of <mask>, is inscribed in the ' Liggere' of the Guild of St Luke in that city in 1629-30 ."
+antwerp,He died at [MASK] in 1660-61 .,He died at <mask> in 1660-61 .
+seattle,"James Oneal died on December 12, 1962 in [MASK], Washington .","James Oneal died on December 12, 1962 in <mask>, Washington ."
+nottingham,Lyman Andrews died Friday 13 February 2009 at his apartment in [MASK] .,Lyman Andrews died Friday 13 February 2009 at his apartment in <mask> .
+edinburgh,"He is buried in Greyfriars Kirkyard in [MASK], where he died in 1812, and a memorial to him stands there, having been erected by friends and well-wishers of the man who had gained fame during his lifetime as Donnchadh Bàn nan Òrain or ``Fair Duncan of the Songs'' .","He is buried in Greyfriars Kirkyard in <mask>, where he died in 1812, and a memorial to him stands there, having been erected by friends and well-wishers of the man who had gained fame during his lifetime as Donnchadh Bàn nan Òrain or ``Fair Duncan of the Songs'' ."
+birmingham,"Harris died on October 2, 1994 in [MASK], Alabama .","Harris died on October 2, 1994 in <mask>, Alabama ."
+jerusalem,"Rabbi Waldenberg died on 21 November 2006 at Shaarei Zedek Medical Center in [MASK], of which he had been the Rabbi .","Rabbi Waldenberg died on 21 November 2006 at Shaarei Zedek Medical Center in <mask>, of which he had been the Rabbi ."
+portugal,"David Croft died in his sleep on 27 September 2011, at his home in [MASK], twenty days after his 89th birthday .","David Croft died in his sleep on 27 September 2011, at his home in <mask>, twenty days after his 89th birthday ."
+houston,"He died on July 11, 2006 in [MASK], TX .","He died on July 11, 2006 in <mask>, TX ."
+southampton,"Knott died at [MASK], Hampshire on 27 February 2003 .","Knott died at <mask>, Hampshire on 27 February 2003 ."
+birmingham,"Sarah Crompton was born in [MASK], the daughter of J W Crompton, a merchant .","Sarah Crompton was born in <mask>, the daughter of J W Crompton, a merchant ."
+birmingham,She died in [MASK] .,She died in <mask> .
+toronto,"Saunders died in 1947 in [MASK], Ontario where she had lived for a number of years .","Saunders died in 1947 in <mask>, Ontario where she had lived for a number of years ."
+baltimore,"In 1927, he officially retired from Johns Hopkins, but remained in [MASK] until his death in 1935 .","In 1927, he officially retired from Johns Hopkins, but remained in <mask> until his death in 1935 ."
+boston,"Gilbert died July 19, 1865 at his home in [MASK] .","Gilbert died July 19, 1865 at his home in <mask> ."
+cumberland,"He declined to be a candidate for reelection in 1910 to the Sixty-second Congress, and engaged in the practice of his profession until his death in [MASK] .","He declined to be a candidate for reelection in 1910 to the Sixty-second Congress, and engaged in the practice of his profession until his death in <mask> ."
+baltimore,"When she died at age 98 in [MASK], Evans was one of the last surviving cast members of a W S Gilbert production and possibly the last surviving player in an original run of a Gilbert production .","When she died at age 98 in <mask>, Evans was one of the last surviving cast members of a W S Gilbert production and possibly the last surviving player in an original run of a Gilbert production ."
+edinburgh,"He died at [MASK] on 7 June 1711; his intimate correspondent, Henry Dodwell the elder, died on the same day .","He died at <mask> on 7 June 1711; his intimate correspondent, Henry Dodwell the elder, died on the same day ."
+buffalo,"He withdrew from public life and active business pursuits, and lived in retirement until his death in [MASK], New York .","He withdrew from public life and active business pursuits, and lived in retirement until his death in <mask>, New York ."
+paris,"Alessandri died on December 26, 1968 in [MASK], France .","Alessandri died on December 26, 1968 in <mask>, France ."
+liverpool,Lowndes died at [MASK] at the age of 35 .,Lowndes died at <mask> at the age of 35 .
+tibet,"Khenpo Jigme Phuntsok died of heart failure in 2004, at the age of 70 in [MASK] .","Khenpo Jigme Phuntsok died of heart failure in 2004, at the age of 70 in <mask> ."
+manchester,"He assumed senior status on March 23, 1939 but remained a member of the court until his death in [MASK] ten years later .","He assumed senior status on March 23, 1939 but remained a member of the court until his death in <mask> ten years later ."
+zagreb,Bulić died in 1934 in [MASK] .,Bulić died in 1934 in <mask> .
+georgetown,"He resumed the practice of medicine until his death in [MASK], Ohio, September 7, 1894 .","He resumed the practice of medicine until his death in <mask>, Ohio, September 7, 1894 ."
+dublin,"John Comerford, who was born at Kilkenny in 1773, practised as a miniature painter in [MASK] for many years .","John Comerford, who was born at Kilkenny in 1773, practised as a miniature painter in <mask> for many years ."
+dublin,He died at [MASK] about 1835 .,He died at <mask> about 1835 .
+milford,"He returned to [MASK], Connecticut, where he died in 1807 .","He returned to <mask>, Connecticut, where he died in 1807 ."
+berlin,"But his work, which was now accomplished, had worn out his physical powers, and he died in 1872 at [MASK] .","But his work, which was now accomplished, had worn out his physical powers, and he died in 1872 at <mask> ."
+manhattan,"One month later, Gould herself died of cancer at age 70 at Memorial Sloan-Kettering Cancer Center in [MASK] .","One month later, Gould herself died of cancer at age 70 at Memorial Sloan-Kettering Cancer Center in <mask> ."
+paris,He lived in France until his death in [MASK] in 1818 .,He lived in France until his death in <mask> in 1818 .
+london,"She died insane almost 26 years later in [MASK] on 26 December 1725, aged 65 She was buried in Westminster Abbey .","She died insane almost 26 years later in <mask> on 26 December 1725, aged 65 She was buried in Westminster Abbey ."
+seville,"He accepted the call and became the President of the Supreme Central and Governmental Junta but, at the age of eighty, his strength failed him and he died at [MASK] on November 20 that year .","He accepted the call and became the President of the Supreme Central and Governmental Junta but, at the age of eighty, his strength failed him and he died at <mask> on November 20 that year ."
+perth,"She died on 3 July 2000 in [MASK], Western Australia as Vivian Statham (married name, September 1977) .","She died on 3 July 2000 in <mask>, Western Australia as Vivian Statham (married name, September 1977) ."
+amsterdam,"Jurriaen Andriessen, born at [MASK] in 1742, was a scholar of A Elliger, and J M Quinkhardt .","Jurriaen Andriessen, born at <mask> in 1742, was a scholar of A Elliger, and J M Quinkhardt ."
+amsterdam,He died at [MASK] in 1819 .,He died at <mask> in 1819 .
+fitzroy,He died in 1972 at [MASK] .,He died in 1972 at <mask> .
+bath,Cumin died at [MASK] in 1854 .,Cumin died at <mask> in 1854 .
+boulder,"Nancy Talbot died from complications of Alzheimer's disease on August 30, 2009, at her home in [MASK], Colorado, at the age of 89 She was survived by her two daughters, Polly and Jane, six grandchildren and six great-grandchildren .","Nancy Talbot died from complications of Alzheimer's disease on August 30, 2009, at her home in <mask>, Colorado, at the age of 89 She was survived by her two daughters, Polly and Jane, six grandchildren and six great-grandchildren ."
+naples,"Robert Goelet died on April 27, 1899 in [MASK], Italy .","Robert Goelet died on April 27, 1899 in <mask>, Italy ."
+warsaw,"Ludwika died of a plague during an 1855 epidemic, at her home in [MASK] .","Ludwika died of a plague during an 1855 epidemic, at her home in <mask> ."
+florida,"Kenneth R Harding died of pneumonia at Ormond Beach Memorial Hospital in [MASK] on October 3, 2007, at the age of 93 He was survived by his second wife, Ruth Campbell Harding, three sons, and fourteen grandchildren, including actor and television host, Zay Harding .","Kenneth R Harding died of pneumonia at Ormond Beach Memorial Hospital in <mask> on October 3, 2007, at the age of 93 He was survived by his second wife, Ruth Campbell Harding, three sons, and fourteen grandchildren, including actor and television host, Zay Harding ."
+paris,"Marcel Oopa died in cancer at a the Tenon Hospital in [MASK] on July 14, 1961 .","Marcel Oopa died in cancer at a the Tenon Hospital in <mask> on July 14, 1961 ."
+leipzig,Luther died at [MASK] on 8 March 1593 .,Luther died at <mask> on 8 March 1593 .
+paris,Lindet returned to France some time before his death in [MASK] .,Lindet returned to France some time before his death in <mask> .
+florence,"During his final months, when he was in declining health, the couple stayed in [MASK], where he died on July 8, 1965 .","During his final months, when he was in declining health, the couple stayed in <mask>, where he died on July 8, 1965 ."
+sacramento,James L English died at age 76 in [MASK] .,James L English died at age 76 in <mask> .
+salisbury,"According to Thomas Fuller, James I intended the bishopric of Gloucester for him, and actually issued the congé d'élire, but afterwards revoked it Tooker died at [MASK] on 19 March 1620-1, and was buried in the cathedral .","According to Thomas Fuller, James I intended the bishopric of Gloucester for him, and actually issued the congé d'élire, but afterwards revoked it Tooker died at <mask> on 19 March 1620-1, and was buried in the cathedral ."
+syracuse,"Starting in 1915, he served in the House of Representatives as a Republican and continued to serve until his death in [MASK], New York on May 25, 1927 .","Starting in 1915, he served in the House of Representatives as a Republican and continued to serve until his death in <mask>, New York on May 25, 1927 ."
+spokane,"He died in 1978 in [MASK], Washington .","He died in 1978 in <mask>, Washington ."
+detroit,"William Macomb's loyalties do not appear to have been tested, as he died at [MASK] two months before the British evacuation in July 1796 .","William Macomb's loyalties do not appear to have been tested, as he died at <mask> two months before the British evacuation in July 1796 ."
+rome,"Livio Agresti (1508--1580), also called Ritius or Ricciutello, was an Italian painter of the late-Renaissance or Mannerist period, active both in his native city of Forlì and in [MASK], where he died .","Livio Agresti (1508--1580), also called Ritius or Ricciutello, was an Italian painter of the late-Renaissance or Mannerist period, active both in his native city of Forlì and in <mask>, where he died ."
+baltimore,He served as a member of the board of managers of Maryland Penitentiary from 1909 until his death in [MASK] .,He served as a member of the board of managers of Maryland Penitentiary from 1909 until his death in <mask> .
+philadelphia,"Kressly died in March 1963 in [MASK], Pennsylvania .","Kressly died in March 1963 in <mask>, Pennsylvania ."
+marion,"After serving his twelve-year term, he retired in January 1895 and returned to [MASK] where he died in November 1895 .","After serving his twelve-year term, he retired in January 1895 and returned to <mask> where he died in November 1895 ."
+miami,"Athalie Range died November 14, 2006 in [MASK], at the age of 91 .","Athalie Range died November 14, 2006 in <mask>, at the age of 91 ."
+antwerp,His will left all his harpsichord-making material to his son Joannes Dulcken; he died in [MASK] .,His will left all his harpsichord-making material to his son Joannes Dulcken; he died in <mask> .
+tucson,"Calkins died at the age of 67 in [MASK], Arizona on May 13, 1962 .","Calkins died at the age of 67 in <mask>, Arizona on May 13, 1962 ."
+florence,He died in 1881 in [MASK] .,He died in 1881 in <mask> .
+prague,"At the time of his sudden death in [MASK] in August 1903, he was in negotiations to join the roster of singers at the Bavarian State Opera .","At the time of his sudden death in <mask> in August 1903, he was in negotiations to join the roster of singers at the Bavarian State Opera ."
+boston,"On August 17, 1996, while vacationing at his summer home, Baltzell was stricken with chest pains and hospitalized at Hyannis, then moved to [MASK], where he died at Brigham and Women's Hospital at the age of 80 Baltzell's first wife, the artist Jane Piper, had died in 1991 .","On August 17, 1996, while vacationing at his summer home, Baltzell was stricken with chest pains and hospitalized at Hyannis, then moved to <mask>, where he died at Brigham and Women's Hospital at the age of 80 Baltzell's first wife, the artist Jane Piper, had died in 1991 ."
+stamford,"Gloria Shayne Baker died at her home in [MASK], Connecticut, of lung cancer on March 6, 2008, at the age of 84 .","Gloria Shayne Baker died at her home in <mask>, Connecticut, of lung cancer on March 6, 2008, at the age of 84 ."
+everett,"Alema Leota died at the age of 80 in [MASK], Washington, on May 11, 2008 .","Alema Leota died at the age of 80 in <mask>, Washington, on May 11, 2008 ."
+chatham,"Coles died on his plantation, Cole's Hill, near [MASK], Virginia in 1813 and was buried in the family cemetery there .","Coles died on his plantation, Cole's Hill, near <mask>, Virginia in 1813 and was buried in the family cemetery there ."
+london,"She had always worked with her father at the Windmill Theatre, which she inherited on his death in 1960, but the changing nature of Soho in [MASK] meant that it closed in 1964 .","She had always worked with her father at the Windmill Theatre, which she inherited on his death in 1960, but the changing nature of Soho in <mask> meant that it closed in 1964 ."
+warsaw,"Stanisław Grzesiuk died January 21, 1963 in [MASK] .","Stanisław Grzesiuk died January 21, 1963 in <mask> ."
+fairfax,"Weyrich died on December 18, 2008, aged 66, at Inova Fair Oaks Hospital in [MASK], Virginia .","Weyrich died on December 18, 2008, aged 66, at Inova Fair Oaks Hospital in <mask>, Virginia ."
+hampton,She died in [MASK] on 27 August 1948 .,She died in <mask> on 27 August 1948 .
+brighton,He died at his home in [MASK]'s Adelaide Crescent and was buried in West Norwood Cemetery .,He died at his home in <mask>'s Adelaide Crescent and was buried in West Norwood Cemetery .
+newark,"He was senior officer of the New Jersey Cavalry at the time of his death in [MASK], New Jersey, March 4, 1842 .","He was senior officer of the New Jersey Cavalry at the time of his death in <mask>, New Jersey, March 4, 1842 ."
+boston,"Born in Woburn, Massachusetts, he died in [MASK]; his output was mainly chamber music, but he wrote some cantatas and church music as well .","Born in Woburn, Massachusetts, he died in <mask>; his output was mainly chamber music, but he wrote some cantatas and church music as well ."
+london,"He died in 1966 in [MASK], survived by his son Rabbi Jacob Ferber and four daughters .","He died in 1966 in <mask>, survived by his son Rabbi Jacob Ferber and four daughters ."
+dunedin,"Baier died at his home in [MASK], New Zealand .","Baier died at his home in <mask>, New Zealand ."
+moscow,Krasny died at the age of 112 in [MASK] and was buried at the New Donskoy Cemetery there .,Krasny died at the age of 112 in <mask> and was buried at the New Donskoy Cemetery there .
+birmingham,"Thomas Naum James (born 24 October 1925 in Amory, Mississippi; died 11 September 2010 in [MASK], Alabama) was a leading American cardiologist during the last half of the twentieth century .","Thomas Naum James (born 24 October 1925 in Amory, Mississippi; died 11 September 2010 in <mask>, Alabama) was a leading American cardiologist during the last half of the twentieth century ."
+ottawa,He was appointed deputy auditor general and served in that post until his death in [MASK] in 1878 .,He was appointed deputy auditor general and served in that post until his death in <mask> in 1878 .
+london,His wife died in 1923 and he died in [MASK] in 1930 .,His wife died in 1923 and he died in <mask> in 1930 .
+london,He died at [MASK] on 24 May 1887 .,He died at <mask> on 24 May 1887 .
+cheyenne,"He died at [MASK], Wyo., August 7, 1888 .","He died at <mask>, Wyo., August 7, 1888 ."
+newark,"Damon died of cancer at Beth Israel Medical Center in [MASK], New Jersey at age 51 .","Damon died of cancer at Beth Israel Medical Center in <mask>, New Jersey at age 51 ."
+manhattan,"Katz died at age 78 on April 18, 1997 in his home in [MASK], due to cancer .","Katz died at age 78 on April 18, 1997 in his home in <mask>, due to cancer ."
+london,Cole died of dropsy at age 37 at her [MASK] home .,Cole died of dropsy at age 37 at her <mask> home .
+surrey,"MacPherson served as Chief Secretary in the third McCulloch government in 1875--77, before retiring from politics in July 1878, still aged only 44 In 1880 he returned to Britain and settled in [MASK], where he died in 1894 .","MacPherson served as Chief Secretary in the third McCulloch government in 1875--77, before retiring from politics in July 1878, still aged only 44 In 1880 he returned to Britain and settled in <mask>, where he died in 1894 ."
+wellington,"When he died in [MASK], he was described as one of the richest people in the country .","When he died in <mask>, he was described as one of the richest people in the country ."
+paris,He was living in retirement with his family when he died at [MASK] .,He was living in retirement with his family when he died at <mask> .
+toronto,"She died in [MASK] in 2001, aged 91 She was buried in the family plot in the Lakeview Cemetery in Sarnia, Ontario .","She died in <mask> in 2001, aged 91 She was buried in the family plot in the Lakeview Cemetery in Sarnia, Ontario ."
+chatham,"He died at [MASK], New Brunswick (now Miramichi, New Brunswick) in 1937 .","He died at <mask>, New Brunswick (now Miramichi, New Brunswick) in 1937 ."
+wilmington,Mardaga died from cancer at St Francis Hospital in [MASK] .,Mardaga died from cancer at St Francis Hospital in <mask> .
+wakefield,"Samuel Crossland died in April 1906 in [MASK], Yorkshire .","Samuel Crossland died in April 1906 in <mask>, Yorkshire ."
+karachi,"Abdur Rab Nishtar died on February 14, 1958 in [MASK] .","Abdur Rab Nishtar died on February 14, 1958 in <mask> ."
+philadelphia,"He exhibited enamel portraits at the Royal Academy from 1781 to 1794, when he went to [MASK], where he died .","He exhibited enamel portraits at the Royal Academy from 1781 to 1794, when he went to <mask>, where he died ."
+amsterdam,He died at [MASK] in 1795 .,He died at <mask> in 1795 .
+bath,"On his death in [MASK] in December 1802, Hunter's estate passed to his granddaughter; her husband then took the surname Hunter, although he sold the estate .","On his death in <mask> in December 1802, Hunter's estate passed to his granddaughter; her husband then took the surname Hunter, although he sold the estate ."
+raleigh,"John Nichols returned to [MASK], and served in the office of the collector of internal revenue from November 26 to December 17, 1893 .","John Nichols returned to <mask>, and served in the office of the collector of internal revenue from November 26 to December 17, 1893 ."
+raleigh,"He was later appointed United States commissioner for the eastern district of North Carolina on July 1, 1897, and served until his death in [MASK] in 1917 .","He was later appointed United States commissioner for the eastern district of North Carolina on July 1, 1897, and served until his death in <mask> in 1917 ."
+karachi,"Khursheed died on April 18, 2001 in [MASK], four days after her 87th birthday .","Khursheed died on April 18, 2001 in <mask>, four days after her 87th birthday ."
+bangor,"Burton Hatlen died of pneumonia at the Eastern Maine Medical Center in [MASK], Maine, on January 21, 2008 .","Burton Hatlen died of pneumonia at the Eastern Maine Medical Center in <mask>, Maine, on January 21, 2008 ."
+vienna,"Alfred von Henikstein died on January 29, 1882 in [MASK] .","Alfred von Henikstein died on January 29, 1882 in <mask> ."
+independence,Curry died at [MASK] at age 89 .,Curry died at <mask> at age 89 .
+montreal,"Paul Smith died on December 15, 1912, at the Royal Victoria Hospital in [MASK], Canada, after two consecutive kidney operations; he was 87 He had three sons -- Henry, who died at age 29, Paul Jr., who died in 1920, and Phelps Smith, who continued managing the hotel until it burned down in 1930 .","Paul Smith died on December 15, 1912, at the Royal Victoria Hospital in <mask>, Canada, after two consecutive kidney operations; he was 87 He had three sons -- Henry, who died at age 29, Paul Jr., who died in 1920, and Phelps Smith, who continued managing the hotel until it burned down in 1930 ."
+montreal,"Goodwin's work has been exhibited in [MASK] since the early 60s, with some significant solo shows .","Goodwin's work has been exhibited in <mask> since the early 60s, with some significant solo shows ."
+montreal,She died in December 2008 in [MASK] .,She died in December 2008 in <mask> .
+tottenham,Barkham died at [MASK] then in Middlesex at the age of 72 .,Barkham died at <mask> then in Middlesex at the age of 72 .
+paris,"He died on March 5, 1915 in [MASK], France .","He died on March 5, 1915 in <mask>, France ."
+london,Bannenberg died of an inoperable Brain tumour at his home in [MASK] in 2002 .,Bannenberg died of an inoperable Brain tumour at his home in <mask> in 2002 .
+france,"Herlin died of a heart attack at age 68, at his home in southern [MASK] on December 20, 1994 .","Herlin died of a heart attack at age 68, at his home in southern <mask> on December 20, 1994 ."
+kensington,"On his death in [MASK] aged 76 in 1952, the baronetcy was inherited by his son Sir Jack Harris (23 July 1906 -- 26 August 2009) .","On his death in <mask> aged 76 in 1952, the baronetcy was inherited by his son Sir Jack Harris (23 July 1906 -- 26 August 2009) ."
+bucharest,"Everac died from cancer at the Floreasca Hospital in [MASK] on October 18, 2011, aged 87 .","Everac died from cancer at the Floreasca Hospital in <mask> on October 18, 2011, aged 87 ."
+lansing,"Farnum was deputy chairman, Democratic National Committee, 1967-1968; member, Waterford Board of Education, 1969-1970; owned a financial and management consulting firm; elected secretary of the Michigan Senate in 1975 and served in that capacity until his death in [MASK] .","Farnum was deputy chairman, Democratic National Committee, 1967-1968; member, Waterford Board of Education, 1969-1970; owned a financial and management consulting firm; elected secretary of the Michigan Senate in 1975 and served in that capacity until his death in <mask> ."
+norfolk,"Captain Tarbell died at [MASK], on 24 November 1815 .","Captain Tarbell died at <mask>, on 24 November 1815 ."
+bath,"He was born and he also died at [MASK], Somerset .","He was born and he also died at <mask>, Somerset ."
+yokohama,"In 1881, Positano was sent to Damascus to serve as Consul; in a few years he was dispatched to [MASK], Japan, where he died in 1886 .","In 1881, Positano was sent to Damascus to serve as Consul; in a few years he was dispatched to <mask>, Japan, where he died in 1886 ."
+london,"Baker died on 24 August 1638 in [MASK], where he had resided for many years .","Baker died on 24 August 1638 in <mask>, where he had resided for many years ."
+ireland,"Manners and Moody retired to [MASK], where he died at Dundrum, County Dublin, aged 77 .","Manners and Moody retired to <mask>, where he died at Dundrum, County Dublin, aged 77 ."
+switzerland,"Spoerri, who retired in 2002, died at his home in [MASK] after suffering a stroke .","Spoerri, who retired in 2002, died at his home in <mask> after suffering a stroke ."
+antwerp,George van Raemdonck was born in [MASK] in 1888 .,George van Raemdonck was born in <mask> in 1888 .
+antwerp,"At the same time, he started painting, and in 1903, aged fifteen, he entered the Royal Academy of Fine Arts in [MASK], where he was taught by Franz Courtens, and where he won the 1913 de Keyer's Prize .","At the same time, he started painting, and in 1903, aged fifteen, he entered the Royal Academy of Fine Arts in <mask>, where he was taught by Franz Courtens, and where he won the 1913 de Keyer's Prize ."
+buffalo,"Grabau died on 2 June 1879 in [MASK], New York, shortly before the 40th anniversary of his arrival in the United States .","Grabau died on 2 June 1879 in <mask>, New York, shortly before the 40th anniversary of his arrival in the United States ."
+london,He died on 31 May 1835 in [MASK] .,He died on 31 May 1835 in <mask> .
+rome,"He spent most of his life in [MASK], where he died, and executed portraits in wax, besides painting in oil and fresco landscapes and historical subjects .","He spent most of his life in <mask>, where he died, and executed portraits in wax, besides painting in oil and fresco landscapes and historical subjects ."
+lexington,"Wikoff died on January 4, 1978 in [MASK] .","Wikoff died on January 4, 1978 in <mask> ."
+berkeley,"Garry died of a stroke in August 1991, at the age of 82 in [MASK], California .","Garry died of a stroke in August 1991, at the age of 82 in <mask>, California ."
+cambridge,"He died at [MASK], unmarried, on 15 December 1764 .","He died at <mask>, unmarried, on 15 December 1764 ."
+chicago,She died in [MASK] in 1986 .,She died in <mask> in 1986 .
+baltimore,"He was appointed judge of the United States Court of Customs and Patent Appeals by President Harry S Truman on July 10, 1952, and served until his death in [MASK], Maryland .","He was appointed judge of the United States Court of Customs and Patent Appeals by President Harry S Truman on July 10, 1952, and served until his death in <mask>, Maryland ."
+france,"She died in [MASK] on September 1, 2000 .","She died in <mask> on September 1, 2000 ."
+auckland,"In 1971, she died in [MASK] .","In 1971, she died in <mask> ."
+seattle,"He died on October 9, 1917 in [MASK], Washington .","He died on October 9, 1917 in <mask>, Washington ."
+auckland,Skinner died on 11 November 1991 in [MASK] .,Skinner died on 11 November 1991 in <mask> .
+compton,"Sherman Houghton died at age 86 in [MASK], California, on August 31, 1914 .","Sherman Houghton died at age 86 in <mask>, California, on August 31, 1914 ."
+rotterdam,"Pieter Arnout Dijxhoorn (1810-1839), a Dutch marine painter, was born at [MASK] in 1810 .","Pieter Arnout Dijxhoorn (1810-1839), a Dutch marine painter, was born at <mask> in 1810 ."
+rotterdam,He died at [MASK] in 1839 .,He died at <mask> in 1839 .
+siena,"Returning to [MASK], where he ultimately died, he afterwards worked at Parma, Bologna, and again at Rome .","Returning to <mask>, where he ultimately died, he afterwards worked at Parma, Bologna, and again at Rome ."
+helsinki,She died in [MASK] .,She died in <mask> .
+toronto,"Hagerman died at [MASK] in 1847, the father of four children by his first marriage and a daughter by his second .","Hagerman died at <mask> in 1847, the father of four children by his first marriage and a daughter by his second ."
+delhi,Purushottam Kakodkar died on 2 May 1998 in [MASK] at the age of 85 .,Purushottam Kakodkar died on 2 May 1998 in <mask> at the age of 85 .
+manhattan,"Considered by some in the art world to be one of the last of the Surrealists, Enrico Donati died in his home in [MASK] on April 25, 2008, aged 99 Donati's health had been failing since involved, as a passenger, in a taxi accident in July, 2007 .","Considered by some in the art world to be one of the last of the Surrealists, Enrico Donati died in his home in <mask> on April 25, 2008, aged 99 Donati's health had been failing since involved, as a passenger, in a taxi accident in July, 2007 ."
+kyoto,"In 1809, Ueda died at the age of 76 in [MASK] .","In 1809, Ueda died at the age of 76 in <mask> ."
+berkeley,"He died at his home in [MASK], California at the age of 86 His notable students included Larry Austin, Neil Rolnick and Leslie Wildman .","He died at his home in <mask>, California at the age of 86 His notable students included Larry Austin, Neil Rolnick and Leslie Wildman ."
+windsor,Wolcott died at home in [MASK] and is buried in the Old Burying Ground there .,Wolcott died at home in <mask> and is buried in the Old Burying Ground there .
+geelong,"Born in South Australia, Hanlon died in 2010, aged 92, at a nursing home in [MASK], Victoria where he had been living for the past year and a half .","Born in South Australia, Hanlon died in 2010, aged 92, at a nursing home in <mask>, Victoria where he had been living for the past year and a half ."
+atlanta,"Siepi died at Piedmont Hospital in [MASK], Georgia on July 5, 2010 after suffering a stroke more than a week earlier .","Siepi died at Piedmont Hospital in <mask>, Georgia on July 5, 2010 after suffering a stroke more than a week earlier ."
+brighton,Arundale died at [MASK] in 1853 .,Arundale died at <mask> in 1853 .
+london,"She died suddenly while in [MASK], England after addressing the International Women's congress on June 28, 1899 .","She died suddenly while in <mask>, England after addressing the International Women's congress on June 28, 1899 ."
+brighton,Haggard died at [MASK] at the age of 62 .,Haggard died at <mask> at the age of 62 .
+greenville,"Frank Edwards died of a heart attack in [MASK], South Carolina, while being driven back to his Atlanta, Georgia home, after completing his final recordings at the age of 93 .","Frank Edwards died of a heart attack in <mask>, South Carolina, while being driven back to his Atlanta, Georgia home, after completing his final recordings at the age of 93 ."
+berlin,"Wolf died 1 December 2011 in [MASK], where she lived with her husband, Gerhard Wolf .","Wolf died 1 December 2011 in <mask>, where she lived with her husband, Gerhard Wolf ."
+philadelphia,"He died in 1880 in [MASK], where he was interred in New Cathedral Cemetery .","He died in 1880 in <mask>, where he was interred in New Cathedral Cemetery ."
+minneapolis,"Edward Dugmore died June 13, 1996 in [MASK], Minnesota .","Edward Dugmore died June 13, 1996 in <mask>, Minnesota ."
+hollywood,"Gloria Grey died in 1947 in [MASK], California, aged 38 .","Gloria Grey died in 1947 in <mask>, California, aged 38 ."
+stamford,"Perkins died on June 17, 1947 in [MASK], Connecticut .","Perkins died on June 17, 1947 in <mask>, Connecticut ."
+edinburgh,"He died aged 42 at [MASK] on 24 November 1834, his remains interred at Calton .","He died aged 42 at <mask> on 24 November 1834, his remains interred at Calton ."
+detroit,"Brownson died on April 17, 1876 in [MASK], aged 72 His remains were subsequently transferred to the crypt of the Basilica of the Sacred Heart at the University of Notre Dame, where his personal papers are also archived .","Brownson died on April 17, 1876 in <mask>, aged 72 His remains were subsequently transferred to the crypt of the Basilica of the Sacred Heart at the University of Notre Dame, where his personal papers are also archived ."
+leicester,"After this, Johnson moved from Berners Street to Camden Town, and on his retirement in 1812 he went back to [MASK], where he died .","After this, Johnson moved from Berners Street to Camden Town, and on his retirement in 1812 he went back to <mask>, where he died ."
+rome,"He died at [MASK], where he was buried in the Protestant Cemetery .","He died at <mask>, where he was buried in the Protestant Cemetery ."
+perth,"Macfaull died on 13 December 1846 in [MASK], the Colony of Western Australia .","Macfaull died on 13 December 1846 in <mask>, the Colony of Western Australia ."
+birmingham,Laroche continued in Oxford Street until the early 1860s and then moved to [MASK] where he died .,Laroche continued in Oxford Street until the early 1860s and then moved to <mask> where he died .
+denton,"Rob Erdle died on December 30, 2006 in [MASK], Texas .","Rob Erdle died on December 30, 2006 in <mask>, Texas ."
+lisbon,"Orioli died in 1942 in [MASK], where he is buried .","Orioli died in 1942 in <mask>, where he is buried ."
+rome,"Sanford Roth died of a heart attack in [MASK], Italy, while preparing to work on the film Cleopatra in 1962 .","Sanford Roth died of a heart attack in <mask>, Italy, while preparing to work on the film Cleopatra in 1962 ."
+riga,"Tess died in a [MASK] hospital on December 7, 2006, at the age of 86 .","Tess died in a <mask> hospital on December 7, 2006, at the age of 86 ."
+carlisle,Ramsey was elected to the Twentieth Congress; reelected as a Jacksonian to the Twenty-first and Twenty-second Congresses and served until his death in [MASK] .,Ramsey was elected to the Twentieth Congress; reelected as a Jacksonian to the Twenty-first and Twenty-second Congresses and served until his death in <mask> .
+baltimore,"Bremner was elected as a Democrat to the Sixty-third Congress, serving in office from March 4, 1913, until his death on February 5, 1914, in [MASK], Maryland .","Bremner was elected as a Democrat to the Sixty-third Congress, serving in office from March 4, 1913, until his death on February 5, 1914, in <mask>, Maryland ."
+paris,He lived in the France from the end of World War II until his death in [MASK] in 2006 .,He lived in the France from the end of World War II until his death in <mask> in 2006 .
+genoa,"Blanco's business finally collapsed in 1848, and in 1854 he died in [MASK] .","Blanco's business finally collapsed in 1848, and in 1854 he died in <mask> ."
+hollywood,"Andreas Dippel died of heart disease at the age of 65 in [MASK], California on 12 May 1932 .","Andreas Dippel died of heart disease at the age of 65 in <mask>, California on 12 May 1932 ."
+odessa,"At Vienna, Pinsker lectured for some time at the bet ha-midrash; but, his health soon failing, he was brought back by his children to [MASK], where he died on October 29, 1864 .","At Vienna, Pinsker lectured for some time at the bet ha-midrash; but, his health soon failing, he was brought back by his children to <mask>, where he died on October 29, 1864 ."
+chesterfield,He died of cancer at the age of 78 on 4 January 2007 at his home in [MASK] .,He died of cancer at the age of 78 on 4 January 2007 at his home in <mask> .
+rome,He died at [MASK] in 1601 .,He died at <mask> in 1601 .
+amsterdam,"Johnson died at [MASK], and was buried there on 10 January 1618 .","Johnson died at <mask>, and was buried there on 10 January 1618 ."
+camden,"Withers died at [MASK] in Kershaw County, South Carolina and was interred at the Quaker Cemetery in the same city .","Withers died at <mask> in Kershaw County, South Carolina and was interred at the Quaker Cemetery in the same city ."
+warsaw,"He died on November 24, 1858 in [MASK] .","He died on November 24, 1858 in <mask> ."
+cairo,"(Switzerland made her an honorary citizen.) She also lived with her nephew in Toronto,Canada for a few years before she died at the age of 95 in [MASK], Egypt, among family and friends .","(Switzerland made her an honorary citizen.) She also lived with her nephew in Toronto,Canada for a few years before she died at the age of 95 in <mask>, Egypt, among family and friends ."
+newcastle,Longworth died in 1961 at [MASK] and was cremated with Congregational forms .,Longworth died in 1961 at <mask> and was cremated with Congregational forms .
+berkeley,"Petri died in 1962 in [MASK], California .","Petri died in 1962 in <mask>, California ."
+perth,"In his final years he retired to [MASK], where he died, unmarried, on 31 July 1886 .","In his final years he retired to <mask>, where he died, unmarried, on 31 July 1886 ."
+charlotte,"She died in her sleep at the home of her daughter, Wendi, in [MASK], North Carolina on May 12, 2008 .","She died in her sleep at the home of her daughter, Wendi, in <mask>, North Carolina on May 12, 2008 ."
+alexandria,"Pryce died at his home in [MASK], Virginia from pancreatic cancer on July 11, 2006 .","Pryce died at his home in <mask>, Virginia from pancreatic cancer on July 11, 2006 ."
+london,"Never married, he died in [MASK] on 10 June 1907 .","Never married, he died in <mask> on 10 June 1907 ."
+dover,"He died suddenly at [MASK] on 7 November 1831, whilst travelling to Naples .","He died suddenly at <mask> on 7 November 1831, whilst travelling to Naples ."
+pittsburgh,"Blakemore died on October 9, 1959 in [MASK], Pennsylvania, and was buried in Allegheny Cemetery .","Blakemore died on October 9, 1959 in <mask>, Pennsylvania, and was buried in Allegheny Cemetery ."
+lille,"Serving in the Royal Navy between 1755--1790, he died in [MASK], France in 1803 .","Serving in the Royal Navy between 1755--1790, he died in <mask>, France in 1803 ."
+rochester,"She died unexpectedly in [MASK], New York .","She died unexpectedly in <mask>, New York ."
+scarborough,"His work was brought to an untimely end, however, by his death in [MASK] from cancer in 1967 .","His work was brought to an untimely end, however, by his death in <mask> from cancer in 1967 ."
+vancouver,"In the 1980s, Hulsker left the Netherlands and settled in [MASK], Canada, where he died in 2002 .","In the 1980s, Hulsker left the Netherlands and settled in <mask>, Canada, where he died in 2002 ."
+switzerland,"They remained friends for three decades, through Willstätter's flight from Germany in 1938 and until his death in [MASK] in 1942 .","They remained friends for three decades, through Willstätter's flight from Germany in 1938 and until his death in <mask> in 1942 ."
+pittsburgh,"Snyder was elected from the 24th District of Pennsylvania as a Democrat to the Seventy-third and to the six succeeding Congresses and served from March 4, 1933, until his death in [MASK], aged 69 .","Snyder was elected from the 24th District of Pennsylvania as a Democrat to the Seventy-third and to the six succeeding Congresses and served from March 4, 1933, until his death in <mask>, aged 69 ."
+hobart,"His official work produced private commissions, and by the time of his death in [MASK], Tasmania, he was a successful portraitist specialising in miniatures .","His official work produced private commissions, and by the time of his death in <mask>, Tasmania, he was a successful portraitist specialising in miniatures ."
+hollywood,"King died of a heart attack in 1963 at her home in [MASK] and is buried at Forest Lawn in Glendale, California .","King died of a heart attack in 1963 at her home in <mask> and is buried at Forest Lawn in Glendale, California ."
+england,"Around 1842, Campbell and his wife moved to Penzance in [MASK], where he died in 1855 .","Around 1842, Campbell and his wife moved to Penzance in <mask>, where he died in 1855 ."
+lisbon,"His ship, however, was captured by the French and Spaniards, by whom he was brought to [MASK], where he died in 1782 .","His ship, however, was captured by the French and Spaniards, by whom he was brought to <mask>, where he died in 1782 ."
+boston,"Hazard died at Massachusetts General Hospital in [MASK], Massachusetts on August 5, 2008 after surgery for pancreatic cancer, with which he had recently been diagnosed .","Hazard died at Massachusetts General Hospital in <mask>, Massachusetts on August 5, 2008 after surgery for pancreatic cancer, with which he had recently been diagnosed ."
+vienna,He traveled Austria and produced a collection of works depicting views of [MASK] .,He traveled Austria and produced a collection of works depicting views of <mask> .
+ipswich,He died at [MASK] on 29 July 1859 .,He died at <mask> on 29 July 1859 .
+genoa,"He resided a long time at [MASK], where he died in 1657 .","He resided a long time at <mask>, where he died in 1657 ."
+edinburgh,Giles died at the age of 83 in [MASK] on 1st February 1941 .,Giles died at the age of 83 in <mask> on 1st February 1941 .
+charleston,She died in [MASK] and her remains are buried at the Quaker Burial Ground there .,She died in <mask> and her remains are buried at the Quaker Burial Ground there .
+rochester,"Rudolf Kingslake died on February 28, 2003 in [MASK], NY at age 100, two weeks after the death of his wife, Hilda .","Rudolf Kingslake died on February 28, 2003 in <mask>, NY at age 100, two weeks after the death of his wife, Hilda ."
+seattle,Frazier Boutelle died at his home in [MASK] on Feb .,Frazier Boutelle died at his home in <mask> on Feb .
+philadelphia,"He was married to the poet Elizabeth Anne Chase Akers Allen from 1860 until his death in [MASK] in 1861, aged 35, from unknown causes .","He was married to the poet Elizabeth Anne Chase Akers Allen from 1860 until his death in <mask> in 1861, aged 35, from unknown causes ."
+louisville,"He died on October 30, 1890 in [MASK], Kentucky .","He died on October 30, 1890 in <mask>, Kentucky ."
+moscow,Plessner is widely viewed as a founder of the [MASK] school of functional analysis .,Plessner is widely viewed as a founder of the <mask> school of functional analysis .
+moscow,"He died on April 18, 1961 in [MASK] .","He died on April 18, 1961 in <mask> ."
+cincinnati,"She died in [MASK], Ohio .","She died in <mask>, Ohio ."
+constantinople,"Abdülmecid died of tuberculosis (like his father) at the age of 39 in [MASK] on 25 June 1861, where he was buried, and was succeeded by his brother, Abdülâziz, the oldest survivor of the family of Osman .","Abdülmecid died of tuberculosis (like his father) at the age of 39 in <mask> on 25 June 1861, where he was buried, and was succeeded by his brother, Abdülâziz, the oldest survivor of the family of Osman ."
+oslo,Kaare Fostervoll died in July 1981 in [MASK] .,Kaare Fostervoll died in July 1981 in <mask> .
+paris,"Her last years were marred by depression, alcoholism and illness and she died in [MASK] of a malignant influenza (pneumonia), at the age of thirty-eight .","Her last years were marred by depression, alcoholism and illness and she died in <mask> of a malignant influenza (pneumonia), at the age of thirty-eight ."
+wellington,McLean died on 30 March 2011 at his home in [MASK] .,McLean died on 30 March 2011 at his home in <mask> .
+winnipeg,Woodsworth died in 1917 in [MASK] .,Woodsworth died in 1917 in <mask> .
+milton,"In the following year Bishop Keene, without any solicitation, sent him an offer of the vicarage of Madingley, but he civilly declined it He was, however, on 10 June 1774 instituted by Dr John Green, bishop of Lincoln, on the presentation of Eton College, to the vicarage of Burnham, Buckinghamshire, vacant by the cession of his uterine brother, Stephen Apthorp, DD He still continued to reside at [MASK], where he died on 16 December 1782, his constitution having been shattered by repeated attacks of gout .","In the following year Bishop Keene, without any solicitation, sent him an offer of the vicarage of Madingley, but he civilly declined it He was, however, on 10 June 1774 instituted by Dr John Green, bishop of Lincoln, on the presentation of Eton College, to the vicarage of Burnham, Buckinghamshire, vacant by the cession of his uterine brother, Stephen Apthorp, DD He still continued to reside at <mask>, where he died on 16 December 1782, his constitution having been shattered by repeated attacks of gout ."
+ankara,"Malik was posted to CENTO in [MASK], Turkey where he died in a road accident .","Malik was posted to CENTO in <mask>, Turkey where he died in a road accident ."
+melbourne,"Alwyn Kurts died on 4 May 2000 in [MASK], Australia, from liver failure .","Alwyn Kurts died on 4 May 2000 in <mask>, Australia, from liver failure ."
+louisville,"Bishop Bascom died 8 September 1850 in [MASK], Kentucky .","Bishop Bascom died 8 September 1850 in <mask>, Kentucky ."
+boston,"Dyer died of bronchitis at the Massachusetts Homeopathic Hospital in [MASK], Massachusetts on the afternoon of January 13, 1907 .","Dyer died of bronchitis at the Massachusetts Homeopathic Hospital in <mask>, Massachusetts on the afternoon of January 13, 1907 ."
+cambridge,"She died in [MASK] of lung cancer on June 3, 2002 .","She died in <mask> of lung cancer on June 3, 2002 ."
+madrid,"Antonio Castrejon, a Spanish painter, was born at [MASK] in 1625 .","Antonio Castrejon, a Spanish painter, was born at <mask> in 1625 ."
+madrid,He died at [MASK] in 1690 .,He died at <mask> in 1690 .
+berkeley,"He died on August 12, 1989 in [MASK] .","He died on August 12, 1989 in <mask> ."
+seville,Felipe de León (died 1728) was a Spanish painter of the Baroque period active in [MASK] .,Felipe de León (died 1728) was a Spanish painter of the Baroque period active in <mask> .
+houston,"Pappy Daily died December 5, 1987 in [MASK] and is buried in the city .","Pappy Daily died December 5, 1987 in <mask> and is buried in the city ."
+windsor,"Godolphin died at [MASK], 29 January 1733, and was buried in Eton Chapel .","Godolphin died at <mask>, 29 January 1733, and was buried in Eton Chapel ."
+chicago,"Martin was elected as a Democrat to the Sixty-fifth Congress and served from March 4, 1917, until his death in [MASK], Illinois, October 28, 1917 .","Martin was elected as a Democrat to the Sixty-fifth Congress and served from March 4, 1917, until his death in <mask>, Illinois, October 28, 1917 ."
+oakland,"Stewart died at his home in [MASK] on April 17, 1942, at the age of 61 He was survived by his wife and five children .","Stewart died at his home in <mask> on April 17, 1942, at the age of 61 He was survived by his wife and five children ."
+dartmouth,He died at his home in [MASK] .,He died at his home in <mask> .
+kensington,"Pryde died on 24 February 1941 in [MASK], London .","Pryde died on 24 February 1941 in <mask>, London ."
+manila,"She died on August 4, 1940 in [MASK], Philippines .","She died on August 4, 1940 in <mask>, Philippines ."
+london,She died in [MASK] on 9 May 1993 .,She died in <mask> on 9 May 1993 .
+nice,"Georgy Adamovich died in February 21, 1972 in [MASK], France .","Georgy Adamovich died in February 21, 1972 in <mask>, France ."
+london,She died in [MASK] in 1893 and was buried with her husband in Killegy graveyard .,She died in <mask> in 1893 and was buried with her husband in Killegy graveyard .
+indianapolis,"Alexander died on September 29, 1971 at the Veteran's Hospital in [MASK], Indiana .","Alexander died on September 29, 1971 at the Veteran's Hospital in <mask>, Indiana ."
+bath,"Duncan died on 12 November 1863, at Westfield Lodge, his home, near [MASK], aged 91 He was unmarried .","Duncan died on 12 November 1863, at Westfield Lodge, his home, near <mask>, aged 91 He was unmarried ."
+bordeaux,"Montauband (born about 1650; died [MASK], 1700) was a pirate .","Montauband (born about 1650; died <mask>, 1700) was a pirate ."
+moscow,In the 1920s he also became a coach and he would remain a coach until his death in 1940 in [MASK] .,In the 1920s he also became a coach and he would remain a coach until his death in 1940 in <mask> .
+quebec,"In 1711, being very ill, Aveneau retired to [MASK] .","In 1711, being very ill, Aveneau retired to <mask> ."
+quebec,"He died at [MASK] on September 14, 1711 .","He died at <mask> on September 14, 1711 ."
+venice,He died at [MASK] in 1543 .,He died at <mask> in 1543 .
+wilmington,"He died on October 8, 2009 in [MASK], Delaware .","He died on October 8, 2009 in <mask>, Delaware ."
+virginia,"Bratton died on June 2, 2007, of an aneurysm, at the age of 81 in [MASK] .","Bratton died on June 2, 2007, of an aneurysm, at the age of 81 in <mask> ."
+genoa,"The resulting political controversy helped result in Madero's relocation to [MASK], Italy, where he died in 1894 at the age of 71 .","The resulting political controversy helped result in Madero's relocation to <mask>, Italy, where he died in 1894 at the age of 71 ."
+milan,"In 1941 she wrote in her diary: ``I feel a deep longing to live always united to Jesus, to love Him intensely because my death can only be a transport of love with my Spouse, Jesus.'' Sister Maria Pierina died in 1945 in [MASK] .","In 1941 she wrote in her diary: ``I feel a deep longing to live always united to Jesus, to love Him intensely because my death can only be a transport of love with my Spouse, Jesus.'' Sister Maria Pierina died in 1945 in <mask> ."
+dublin,Robert MacBryde died in 1966 in [MASK] as a result of a street accident .,Robert MacBryde died in 1966 in <mask> as a result of a street accident .
+pontiac,"She died on December 6, 1973, in [MASK], Michigan .","She died on December 6, 1973, in <mask>, Michigan ."
+london,He died on 2 January 1755 in [MASK] .,He died on 2 January 1755 in <mask> .
+trenton,"On December 11, 1973 Spoltore died of a heart attack at St Francis Hospital in [MASK], New Jersey at the age of 52 .","On December 11, 1973 Spoltore died of a heart attack at St Francis Hospital in <mask>, New Jersey at the age of 52 ."
+dublin,"Cryan died at age 54 at his home in [MASK] on 17 February, 1881 and left a ``considerable fortune'' to his family .","Cryan died at age 54 at his home in <mask> on 17 February, 1881 and left a ``considerable fortune'' to his family ."
+bath,"Bradshaw died at [MASK] on 16 December 1732, and was buried in Bristol Cathedral .","Bradshaw died at <mask> on 16 December 1732, and was buried in Bristol Cathedral ."
+ottawa,"William James Paul died September 1, 1929 in [MASK], Ontario, Canada .","William James Paul died September 1, 1929 in <mask>, Ontario, Canada ."
+philadelphia,"He resumed the practice of law in Reading and later moved to [MASK], where he died in 1856 .","He resumed the practice of law in Reading and later moved to <mask>, where he died in 1856 ."
+paris,She died in [MASK] .,She died in <mask> .
+cambridge,"She died in [MASK], Massachusetts on February 6, 2010 .","She died in <mask>, Massachusetts on February 6, 2010 ."
+london,"Morley who never married, died at the Lambeth Hospital in [MASK] .","Morley who never married, died at the Lambeth Hospital in <mask> ."
+philadelphia,"Georgie Shaw died on September 1, 2006 in [MASK] .","Georgie Shaw died on September 1, 2006 in <mask> ."
+newark,"Hodgkinson died on 15 February 1881, at his home in [MASK], aged 62 .","Hodgkinson died on 15 February 1881, at his home in <mask>, aged 62 ."
+beverly,"Arne Brun Lie died on 11 April 2010 in [MASK], MA He was 85 years old .","Arne Brun Lie died on 11 April 2010 in <mask>, MA He was 85 years old ."
+toronto,Thomas Baines died in 1867 at [MASK] .,Thomas Baines died in 1867 at <mask> .
+philadelphia,"Burk was elected in 1901 as a Republican to the 57th Congress and served from March 4, 1901, until his death in [MASK] .","Burk was elected in 1901 as a Republican to the 57th Congress and served from March 4, 1901, until his death in <mask> ."
+dublin,Mary Lavin died in a [MASK] nursing home on 25 March 1996 .,Mary Lavin died in a <mask> nursing home on 25 March 1996 .
+elgin,"He died May 11, 1623, at [MASK] .","He died May 11, 1623, at <mask> ."
+harrisburg,"He became an associate judge of Dauphin County, Pennsylvania, by appointment of Governor David R Porter from 1839 until his death in [MASK], in 1851 .","He became an associate judge of Dauphin County, Pennsylvania, by appointment of Governor David R Porter from 1839 until his death in <mask>, in 1851 ."
+cambridge,"Captain Bradford died at [MASK], Mass., 7 March 1824 .","Captain Bradford died at <mask>, Mass., 7 March 1824 ."
+london,"Dale died in July 1943 in [MASK], aged 58, after collapsing during one of the final rehearsals for the première of The Flowing Tide .","Dale died in July 1943 in <mask>, aged 58, after collapsing during one of the final rehearsals for the première of The Flowing Tide ."
+ottawa,He represented the senatorial division of Nova Scotia until his death in [MASK] at the age of 62 .,He represented the senatorial division of Nova Scotia until his death in <mask> at the age of 62 .
+brooklyn,"He died February 3, 1885, at [MASK], New York .","He died February 3, 1885, at <mask>, New York ."
+vancouver,The community Marpole located in [MASK] South was named after him .,The community Marpole located in <mask> South was named after him .
+vancouver,He died on 8 Jun 1920 in [MASK] .,He died on 8 Jun 1920 in <mask> .
+bath,"He died at [MASK] on 3 November 1791, and was interred in the church of Walcot .","He died at <mask> on 3 November 1791, and was interred in the church of Walcot ."
+bologna,"Becoming ill with a fever he returned to [MASK], where he died on September 6 at age 46 (or 50) .","Becoming ill with a fever he returned to <mask>, where he died on September 6 at age 46 (or 50) ."
+amsterdam,He died at [MASK] in 1656 .,He died at <mask> in 1656 .
+huntington,"He died on December 10, 1959 in [MASK], West Virginia at the age of 74 .","He died on December 10, 1959 in <mask>, West Virginia at the age of 74 ."
+trenton,"He died April 23, 1951 in [MASK], New Jersey .","He died April 23, 1951 in <mask>, New Jersey ."
+genoa,"Valletti died of a heart attack in [MASK], Italy, while undergoing treatment for liver cancer .","Valletti died of a heart attack in <mask>, Italy, while undergoing treatment for liver cancer ."
+henderson,"Dorsey served as a private in Headquarters Company, One Hundred and Fifty-ninth Depot Brigade, in 1918; executive Democratic committeeman 1920-1924; city attorney of [MASK] in 1926 and 1930 .","Dorsey served as a private in Headquarters Company, One Hundred and Fifty-ninth Depot Brigade, in 1918; executive Democratic committeeman 1920-1924; city attorney of <mask> in 1926 and 1930 ."
+brisbane,Dunne died at [MASK] on 13 January 1917 .,Dunne died at <mask> on 13 January 1917 .
+jerusalem,"Halkin died in 1987 in [MASK], Israel .","Halkin died in 1987 in <mask>, Israel ."
+rotterdam,"Tozer then went to Holland, and became minister to the English merchants at [MASK], where he died on 11 September 1650; he was buried in the English church there .","Tozer then went to Holland, and became minister to the English merchants at <mask>, where he died on 11 September 1650; he was buried in the English church there ."
+edinburgh,"Graham died very suddenly at his home in [MASK] in 1794, his death recorded in Old Parish Records as having taken place on 24 December, although other sources suggest he died on his birthday, 23 June .","Graham died very suddenly at his home in <mask> in 1794, his death recorded in Old Parish Records as having taken place on 24 December, although other sources suggest he died on his birthday, 23 June ."
+manchester,He died at [MASK] 1 July 1857 .,He died at <mask> 1 July 1857 .
+philadelphia,"However, his declining health forced him back to [MASK], where he died on May 30, 1878 .","However, his declining health forced him back to <mask>, where he died on May 30, 1878 ."
+dallas,"Henry D Lindsley died November 18, 1938 in [MASK], Texas and was interred at Arlington National Cemetery in Arlington, Virginia .","Henry D Lindsley died November 18, 1938 in <mask>, Texas and was interred at Arlington National Cemetery in Arlington, Virginia ."
+aleppo,He died in 1935 in [MASK] .,He died in 1935 in <mask> .
+prague,"She studied piano with Josef Jiranek at the [MASK] Conservatory, graduating in 1913 and later studied composition privately with Vitezslav Novak .","She studied piano with Josef Jiranek at the <mask> Conservatory, graduating in 1913 and later studied composition privately with Vitezslav Novak ."
+dhaka,"Waheedul Haq died at [MASK]'s Birdem Hospital on 27 January,2007 .","Waheedul Haq died at <mask>'s Birdem Hospital on 27 January,2007 ."
+shanghai,"He was voted as one of the One Hundred Living Treasures of China and it was a great loss to the martial arts world and a greater loss to his family when he died in [MASK] on September 25, 1994 at age 92 Fu Sheng Yuan continues his father's quest in spreading Yang Taichi to the world .","He was voted as one of the One Hundred Living Treasures of China and it was a great loss to the martial arts world and a greater loss to his family when he died in <mask> on September 25, 1994 at age 92 Fu Sheng Yuan continues his father's quest in spreading Yang Taichi to the world ."
+madrid,He died at [MASK] .,He died at <mask> .
+beaufort,"He was appointed by President Theodore Roosevelt in 1906 as commissioner of the United States to mark the graves of Confederate dead in the North and served in this capacity until his death in [MASK], South Carolina, on December 7, 1907 .","He was appointed by President Theodore Roosevelt in 1906 as commissioner of the United States to mark the graves of Confederate dead in the North and served in this capacity until his death in <mask>, South Carolina, on December 7, 1907 ."
+berkeley,"Hal Draper died of pneumonia in 1990 at his home in [MASK], California .","Hal Draper died of pneumonia in 1990 at his home in <mask>, California ."
+london,"At the age of twelve he entered a printing office in [MASK], and became successively a compositor and proof-reader .","At the age of twelve he entered a printing office in <mask>, and became successively a compositor and proof-reader ."
+newark,"Grand worthy patriarch of the Sons of Temperance in Ohio, and while attending a temperance convention at Sandusky contracted cholera, from which he died in [MASK], Ohio, July 30, 1849 .","Grand worthy patriarch of the Sons of Temperance in Ohio, and while attending a temperance convention at Sandusky contracted cholera, from which he died in <mask>, Ohio, July 30, 1849 ."
